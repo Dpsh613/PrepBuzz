@@ -1,0 +1,129 @@
+{
+  "name": "SSC CGL (Combined Graduate Level Exam)",
+  "shortName": "ssc-cgl",
+  "description": "A national-level examination conducted by the Staff Selection Commission (SSC) for recruiting candidates for various Group 'B' and Group 'C' posts in different Ministries, Departments, and Organizations of the Government of India. It is one of the most popular government job exams in the country.",
+  "conductingBody": "Staff Selection Commission (SSC)",
+  "officialWebsite": "https://ssc.gov.in",
+  "eligibility": {
+    "ageLimit": "Varies by post, generally between 18-32 years. Age relaxation is provided for reserved categories like SC, ST, OBC, PwBD, etc., as per government rules.",
+    "educationalQualification": "A Bachelor's Degree from a recognised University or equivalent. Some posts require specific qualifications (e.g., Junior Statistical Officer - JSO) or desirable qualifications (e.g., Assistant Audit Officer - AAO).",
+    "nationality": "A Citizen of India, or a subject of Nepal/Bhutan, or a Tibetan refugee who came to India before 1st January 1962.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "Expected on June 11, 2024 (as per SSC Calendar 2024-25).",
+    "applicationStartDate": "Expected on June 11, 2024.",
+    "applicationEndDate": "Expected on July 10, 2024.",
+    "examDate": "Tier-I is scheduled for September-October 2024. Tier-II dates to be announced later.",
+    "resultDate": "Tier-I results are typically announced within 1-2 months of the exam. Final results are declared after the completion of all stages."
+  },
+  "examPattern": {
+    "mode": "Online (Computer-Based Examination)",
+    "stages": [
+      {
+        "name": "Stage 1: Tier-I Examination",
+        "description": "An objective type screening test with 100 questions for 200 marks, to be completed in 60 minutes. It consists of 4 sections. This is qualifying in nature."
+      },
+      {
+        "name": "Stage 2: Tier-II Examination",
+        "description": "Consists of three papers. Paper-I is compulsory for all posts and has modules for Mathematical Abilities, Reasoning, English, General Awareness, and Computer Knowledge. Paper-II is for JSO candidates (Statistics), and Paper-III is for AAO candidates (General Studies - Finance & Economics). Marks from Tier-II determine the final merit list."
+      },
+      {
+        "name": "Stage 3: Document Verification",
+        "description": "Candidates who clear Tier-II are called for document verification by the user departments/organizations."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "Tier-I: +2 for each correct answer, -0.5 for each incorrect answer. \nTier-II (Paper-I): +3 for each correct answer and -1 for each incorrect answer for Sections I, II, and Module I of Section III. There is no negative marking for the Computer Knowledge Test."
+  },
+  "syllabus": [
+    {
+      "name": "Tier-I: General Intelligence & Reasoning",
+      "topics": [
+        "Analogies, Classification, Coding-Decoding, Puzzles, Series, Venn Diagrams, Syllogism, Blood Relations, Direction Test, Non-Verbal Reasoning"
+      ]
+    },
+    {
+      "name": "Tier-I: General Awareness",
+      "topics": [
+        "India and its Neighboring Countries",
+        "History, Culture, Geography, Economic Scene",
+        "General Polity, Scientific Research",
+        "Current Affairs",
+        "Static GK"
+      ]
+    },
+    {
+      "name": "Tier-I: Quantitative Aptitude",
+      "topics": [
+        "Whole Numbers, Decimals, Fractions",
+        "Percentage, Ratio & Proportion, Averages",
+        "Interest, Profit & Loss",
+        "Time & Distance, Time & Work",
+        "Algebra, Geometry, Mensuration, Trigonometry",
+        "Data Interpretation"
+      ]
+    },
+    {
+      "name": "Tier-I: English Comprehension",
+      "topics": [
+        "Reading Comprehension, Fill in the Blanks, Spellings, Idioms & Phrases, One-word substitution, Sentence Improvement, Error Spotting, Synonyms & Antonyms"
+      ]
+    },
+    {
+      "name": "Tier-II",
+      "topics": [
+        "Syllabus for Maths, Reasoning, English, and GA is similar to Tier-I but more advanced. Additional subjects include Computer Proficiency, Statistics, and General Studies (Finance and Economics) for specific posts."
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "SSC CGL 2024 Notification is expected to be released on June 11, 2024.",
+    "date": "2024-06-01",
+    "link": "https://ssc.gov.in/api/attachment/uploads/master/site/UPLOAD_20240411_151909_Calender_for_the_Year_2024_25.pdf"
+  },
+  "books": [
+    {
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Objective General English",
+      "author": "S.P. Bakshi",
+      "link": ""
+    },
+    {
+      "title": "Lucent's General Knowledge",
+      "author": "Dr. Binay Karna",
+      "link": ""
+    },
+    {
+      "title": "Play with Advanced Maths",
+      "author": "Abhinay Sharma",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "SSC CGL & CHSL Exam Preparation",
+      "channelName": "SSC Adda247",
+      "url": "https://www.youtube.com/@SSCAdda247"
+    },
+    {
+      "title": "Unacademy Live - SSC",
+      "channelName": "Unacademy Live - SSC",
+      "url": "https://www.youtube.com/@UnacademySSCLive"
+    },
+    {
+      "title": "Gagan Pratap Maths",
+      "channelName": "Gagan Pratap Maths",
+      "url": "https://www.youtube.com/@GaganPratapMaths"
+    }
+  ]
+}

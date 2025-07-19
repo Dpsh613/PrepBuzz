@@ -1,0 +1,84 @@
+{
+  "name": "GATE (Graduate Aptitude Test in Engineering)",
+  "shortName": "gate",
+  "description": "A national-level examination that primarily tests the comprehensive understanding of various undergraduate subjects in engineering and science for admission into Master's programs and recruitment by some Public Sector Undertakings (PSUs).",
+  "conductingBody": "Jointly conducted by the Indian Institute of Science (IISc) and seven Indian Institutes of Technology (Bombay, Delhi, Guwahati, Kanpur, Kharagpur, Madras, and Roorkee) on behalf of the National Coordination Board (NCB)-GATE, Department of Higher Education, Ministry of Education (MoE), Government of India. One institute acts as the organizing institute each year.",
+  "officialWebsite": "https://gate.iisc.ac.in/",
+  "eligibility": {
+    "ageLimit": "No age limit to appear for the GATE exam.",
+    "educationalQualification": "A candidate who is currently studying in the 3rd or higher years of any undergraduate degree program OR has already completed any government-approved degree program in Engineering / Technology / Architecture / Science / Commerce / Arts is eligible to appear for the GATE examination.",
+    "nationality": "Candidates from India, Bangladesh, Sri Lanka, Nepal, and Ethiopia are eligible to apply.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "Typically released in the last week of July. (For GATE 2025, expected in July 2024)",
+    "applicationStartDate": "Typically starts in the last week of August. (For GATE 2024, it was August 30, 2023)",
+    "applicationEndDate": "Typically ends in the first week of October. (For GATE 2024, it was October 12, 2023)",
+    "examDate": "Held over the first two weekends of February. (For GATE 2024, it was Feb 3, 4, 10 & 11, 2024)",
+    "resultDate": "Typically announced in the third week of March. (For GATE 2024, it was March 16, 2024)"
+  },
+  "examPattern": {
+    "mode": "Online (Computer-Based Test)",
+    "stages": [
+      {
+        "name": "Stage 1: GATE Written Exam",
+        "description": "A single online examination of 3 hours duration consisting of 65 questions for a total of 100 marks. The paper consists of General Aptitude (GA) and a candidate-selected subject."
+      },
+      {
+        "name": "Stage 2: Post-Exam Application/Counselling",
+        "description": "Candidates use their GATE score to apply for M.Tech/Ph.D. admissions (via COAP/CCMT counselling portals) or PSU jobs. These institutions then conduct their own selection processes (interviews, group discussions etc.)."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "Questions are of 1 mark and 2 marks. For 1-mark MCQs, 1/3 mark is deducted for a wrong answer. For 2-mark MCQs, 2/3 mark is deducted. There is no negative marking for Multiple Select Questions (MSQs) and Numerical Answer Type (NAT) questions."
+  },
+  "syllabus": [
+    {
+      "name": "General Aptitude (GA)",
+      "topics": [
+        "Verbal Ability: English grammar, sentence completion, verbal analogies, word groups, etc.",
+        "Numerical Ability: Numerical computation, numerical estimation, numerical reasoning, and data interpretation."
+      ]
+    },
+    {
+      "name": "Candidate's Selected Subject",
+      "topics": [
+        "The syllabus is specific to the paper chosen by the candidate (e.g., Computer Science, Mechanical Engineering, Electrical Engineering, etc.). It covers the core subjects of the respective undergraduate engineering/science discipline. Engineering Mathematics is a part of the syllabus for many papers."
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "IIT Roorkee will be the organizing institute for GATE 2025",
+    "date": "2024-05-15",
+    "link": "https://www.iitr.ac.in/"
+  },
+  "books": [
+    {
+      "title": "GATE-specific previous year question books",
+      "author": "Various publications like Made Easy, ACE Engineering Academy",
+      "link": ""
+    },
+    {
+      "title": "Standard textbook for the specific engineering discipline",
+      "author": "Varies by subject (e.g., 'Introduction to Algorithms' by CLRS for CS, 'Fundamentals of Thermodynamics' by Moran and Shapiro for ME)",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "GATE Preparation lectures by top educators",
+      "channelName": "Unacademy GATE - ME, PI, XE",
+      "url": "https://www.youtube.com/@UnacademyGATE"
+    },
+    {
+      "title": "NPTEL Lectures (Official)",
+      "channelName": "NPTEL-NOC",
+      "url": "https://www.youtube.com/@iit"
+    },
+    {
+      "title": "GATE Coaching and Exam Updates",
+      "channelName": "GATE Academy",
+      "url": "https://www.youtube.com/@TheGATEAcademy"
+    }
+  ]
+}

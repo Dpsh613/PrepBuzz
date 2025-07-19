@@ -1,0 +1,135 @@
+{
+  "name": "SSC CHSL (Combined Higher Secondary Level Exam)",
+  "shortName": "ssc-chsl",
+  "description": "A national-level examination conducted by the Staff Selection Commission (SSC) to recruit candidates for various posts such as Lower Divisional Clerk (LDC), Junior Secretariat Assistant (JSA), and Data Entry Operators (DEO) in different Ministries, Departments, and Organizations of the Government of India.",
+  "conductingBody": "Staff Selection Commission (SSC)",
+  "officialWebsite": "https://ssc.gov.in",
+  "eligibility": {
+    "ageLimit": "18-27 years. Age relaxation is applicable for reserved categories (SC, ST, OBC, PwBD, etc.) as per government rules.",
+    "educationalQualification": "Candidates must have passed the 12th Standard or equivalent examination from a recognized Board or University.",
+    "nationality": "A Citizen of India, or a subject of Nepal/Bhutan, or a Tibetan refugee who came to India before January 1, 1962.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "April 8, 2024 (for the 2024 cycle)",
+    "applicationStartDate": "April 8, 2024",
+    "applicationEndDate": "May 7, 2024",
+    "examDate": "Tier-I: July 1, 2, 3, 4, 5, 8, 9, 10, 11, 2024. Tier-II: To be notified later.",
+    "resultDate": "Results for each tier are declared a few weeks after the exam. Final results are declared after all stages are completed."
+  },
+  "examPattern": {
+    "mode": "Online (Computer-Based Examination)",
+    "stages": [
+      {
+        "name": "Stage 1: Tier-I Examination",
+        "description": "An objective multiple-choice paper of 200 marks with 100 questions, to be completed in 60 minutes. It has 4 sections. This is a qualifying screening test."
+      },
+      {
+        "name": "Stage 2: Tier-II Examination",
+        "description": "Consists of sessions with different modules. Session I includes Mathematical Abilities, Reasoning, English, General Awareness, and Computer Knowledge. Session II includes a Skill Test/Typing Test which is qualifying in nature. Marks from Session I determine the final merit."
+      },
+      {
+        "name": "Stage 3: Document Verification",
+        "description": "Candidates who qualify all stages are recommended for appointment, and document verification is conducted by the concerned user department."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "Tier-I: +2 marks for each correct answer and -0.5 marks for each wrong answer. \nTier-II: For Section-I, Section-II and Module-I of Section-III, there is a negative marking of 1 mark for each wrong answer. The Computer Knowledge Test and Skill/Typing Test are qualifying."
+  },
+  "syllabus": [
+    {
+      "name": "General Intelligence",
+      "topics": [
+        "Semantic Analogy, Symbolic operations, Number Analogy",
+        "Trends, Figural Analogy, Space Orientation",
+        "Venn Diagrams, Symbolic/Number Classification",
+        "Drawing inferences, Figural Classification",
+        "Punched hole/pattern-folding & unfolding",
+        "Semantic Series, Figural Pattern-folding and completion",
+        "Number Series, Embedded figures, Figural Series",
+        "Critical Thinking, Problem Solving, Emotional Intelligence, Word Building",
+        "Social Intelligence, Coding and de-coding",
+        "Numerical operations"
+      ]
+    },
+    {
+      "name": "General Awareness",
+      "topics": [
+        "History, Culture, Geography, Economic Scene",
+        "General Policy and Scientific Research",
+        "Current affairs and matters of every day observation and experience"
+      ]
+    },
+    {
+      "name": "Quantitative Aptitude",
+      "topics": [
+        "Number Systems",
+        "Fundamental arithmetical operations (Percentages, Ratio and Proportion, Square roots, Averages, Interest, Profit and Loss, Discount)",
+        "Algebra",
+        "Geometry",
+        "Mensuration",
+        "Trigonometry",
+        "Statistical Charts"
+      ]
+    },
+    {
+      "name": "English Language",
+      "topics": [
+        "Spot the Error, Fill in the Blanks",
+        "Synonyms/Homonyms, Antonyms",
+        "Spellings/Detecting mis-spelt words",
+        "Idioms & Phrases",
+        "One word substitution",
+        "Improvement of Sentences",
+        "Active/Passive Voice",
+        "Direct/Indirect narration",
+        "Shuffling of Sentence parts",
+        "Cloze Passage, Comprehension Passage"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "SSC CHSL 2024 Tier-I Admit Card status released for various regions.",
+    "date": "2024-06-20",
+    "link": "https://ssc.gov.in/portal/admit_card"
+  },
+  "books": [
+    {
+      "title": "Objective General English",
+      "author": "S.P. Bakshi",
+      "link": ""
+    },
+    {
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Lucent's General Knowledge",
+      "author": "Dr. Binay Karna",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "SSC CGL & CHSL Exam Preparation",
+      "channelName": "SSC Adda247",
+      "url": "https://www.youtube.com/@SSCAdda247"
+    },
+    {
+      "title": "WiFi Study",
+      "channelName": "WiFi Study",
+      "url": "https://www.youtube.com/@wifistudy"
+    },
+    {
+      "title": "Unacademy Live - SSC",
+      "channelName": "Unacademy Live - SSC",
+      "url": "https://www.youtube.com/@UnacademySSCLive"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "UGC-NET (National Eligibility Test)",
+  "shortName": "ugc-net",
+  "description": "A national-level examination to determine the eligibility for the post of 'Assistant Professor' and for 'Junior Research Fellowship (JRF) and Assistant Professor' in Indian universities and colleges.",
+  "conductingBody": "National Testing Agency (NTA) on behalf of the University Grants Commission (UGC)",
+  "officialWebsite": "https://ugcnet.nta.ac.in/",
+  "eligibility": {
+    "ageLimit": "For JRF: Not more than 30 years as on the first day of the month in which the examination is concluded. Age relaxation is applicable for reserved categories. \nFor Assistant Professor: There is no upper age limit.",
+    "educationalQualification": "Candidates who have secured at least 55% marks (without rounding off) in a Master’s Degree or equivalent examination from universities/institutions recognized by UGC. A relaxation of 5% is available for OBC-NCL/SC/ST/PwD/Third gender candidates. Candidates appearing for their final year examination are also eligible.",
+    "nationality": "A Citizen of India.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "April 20, 2024 (for June 2024 session)",
+    "applicationStartDate": "April 20, 2024",
+    "applicationEndDate": "May 19, 2024",
+    "examDate": "The exam was conducted on June 18, 2024, but was subsequently cancelled by the Ministry of Education. New dates are yet to be announced. The exam is held twice a year, typically in June and December.",
+    "resultDate": "To be announced after the re-examination."
+  },
+  "examPattern": {
+    "mode": "Offline (Pen & Paper based, OMR). (Note: This was changed from Online CBT for the June 2024 cycle).",
+    "stages": [
+      {
+        "name": "Combined Examination (Paper I & Paper II)",
+        "description": "A single examination session of 3 hours without any break, consisting of two papers. Paper I is common for all candidates, and Paper II is based on the subject selected by the candidate."
+      }
+    ],
+    "negativeMarking": false,
+    "markingScheme": "Both papers consist of objective type, multiple-choice questions. Paper I has 50 questions for 100 marks. Paper II has 100 questions for 200 marks. Each question carries 2 marks. There is no negative marking for incorrect answers."
+  },
+  "syllabus": [
+    {
+      "name": "Paper-I: General Paper on Teaching and Research Aptitude",
+      "topics": [
+        "Teaching Aptitude",
+        "Research Aptitude",
+        "Reading Comprehension",
+        "Communication",
+        "Reasoning (including Mathematical)",
+        "Logical Reasoning",
+        "Data Interpretation",
+        "Information and Communication Technology (ICT)",
+        "People, Development and Environment",
+        "Higher Education System: Governance, Polity and Administration"
+      ]
+    },
+    {
+      "name": "Paper-II: Subject Specific",
+      "topics": [
+        "This paper is based on the subject selected by the candidate from a list of 83 subjects. The syllabus is based on the postgraduate curriculum for that subject and can be downloaded from the official UGC-NET website."
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "UGC-NET June 2024 Examination Cancelled by Ministry of Education; CBI Probe Ordered",
+    "date": "2024-06-19",
+    "link": "https://pib.gov.in/PressReleasePage.aspx?PRID=2026402"
+  },
+  "books": [
+    {
+      "title": "UGC-NET/SET/JRF Paper I: Teaching and Research Aptitude",
+      "author": "KVS Madaan (Pearson Education)",
+      "link": ""
+    },
+    {
+      "title": "Trueman's UGC-NET/SET General Paper I",
+      "author": "M. Gagan & Sajit Kumar",
+      "link": ""
+    },
+    {
+      "title": "Subject-specific standard textbooks and previous years' question papers",
+      "author": "Various authors and publishers",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "UGC NET Paper 1 & Paper 2 Classes",
+      "channelName": "Unacademy Live - UGC NET",
+      "url": "https://www.youtube.com/@UnacademyUGCNET"
+    },
+    {
+      "title": "BYJU'S Exam Prep: UGC NET JRF & All SET Exams",
+      "channelName": "BYJU'S Exam Prep: UGC NET JRF & All SET Exams",
+      "url": "https://www.youtube.com/@BYJUSExamPrepUGCNET"
+    },
+    {
+      "title": "Kumar Bharat - UGC NET Paper 1",
+      "channelName": "Kumar Bharat - UGC NET Paper 1",
+      "url": "https://www.youtube.com/@kumarbharat"
+    }
+  ]
+}

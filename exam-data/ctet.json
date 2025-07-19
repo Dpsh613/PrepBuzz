@@ -1,0 +1,139 @@
+{
+  "name": "CTET (Central Teacher Eligibility Test)",
+  "shortName": "ctet",
+  "description": "A national-level eligibility test conducted by the CBSE to determine a candidate's eligibility for appointment as a teacher for classes I to VIII in Central Government schools like KVS, NVS, etc. It is a qualifying exam and does not guarantee a job.",
+  "conductingBody": "Central Board of Secondary Education (CBSE)",
+  "officialWebsite": "https://ctet.nic.in",
+  "eligibility": {
+    "ageLimit": "Minimum 18 years, no upper age limit.",
+    "educationalQualification": "Varies for Paper I (Classes I-V) and Paper II (Classes VI-VIII). Generally requires Senior Secondary + D.El.Ed for Paper I, and Graduation + B.Ed/D.El.Ed for Paper II. Specifics are detailed in the official NCTE guidelines and the CTET information bulletin.",
+    "nationality": "Citizen of India",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "March 7, 2024 (for July 2024 session)",
+    "applicationStartDate": "March 7, 2024 (for July 2024 session)",
+    "applicationEndDate": "April 5, 2024 (for July 2024 session)",
+    "examDate": "July 7, 2024 (for July 2024 session). The exam is held twice a year, typically in July and December.",
+    "resultDate": "Typically announced within 4-6 weeks after the exam."
+  },
+  "examPattern": {
+    "mode": "Offline (Pen-Paper Based OMR)",
+    "stages": [
+      {
+        "name": "Paper I (for Classes I-V)",
+        "description": "Duration: 2.5 hours. Contains 150 Multiple Choice Questions (MCQs) from five sections: Child Development & Pedagogy, Language I, Language II, Mathematics, and Environmental Studies. Each section has 30 questions."
+      },
+      {
+        "name": "Paper II (for Classes VI-VIII)",
+        "description": "Duration: 2.5 hours. Contains 150 MCQs. Sections on Child Development & Pedagogy, Language I, and Language II are compulsory. Candidates must choose between (a) Mathematics and Science or (b) Social Studies/Social Science for the fourth section (60 questions)."
+      }
+    ],
+    "negativeMarking": false,
+    "markingScheme": "1 mark is awarded for every correct answer. There is no negative marking for incorrect answers or unattempted questions. Total marks for each paper is 150."
+  },
+  "syllabus": [
+    {
+      "name": "Child Development & Pedagogy (Paper I & II)",
+      "topics": [
+        "Concept of development",
+        "Principles of child development",
+        "Piaget, Kohlberg, and Vygotsky constructs",
+        "Inclusive education",
+        "Learning and motivation",
+        "Teaching-learning processes"
+      ]
+    },
+    {
+      "name": "Language I & II (Paper I & II)",
+      "topics": [
+        "Reading unseen passages (prose or drama and one poem)",
+        "Grammar and verbal ability",
+        "Pedagogy of Language Development",
+        "Principles of language teaching"
+      ]
+    },
+    {
+      "name": "Mathematics (Paper I)",
+      "topics": [
+        "Numbers",
+        "Shapes & Spatial Understanding",
+        "Measurement",
+        "Data Handling",
+        "Patterns",
+        "Money",
+        "Pedagogical issues"
+      ]
+    },
+    {
+      "name": "Environmental Studies (Paper I)",
+      "topics": [
+        "Family and Friends",
+        "Food",
+        "Shelter",
+        "Water",
+        "Travel",
+        "Things We Make and Do",
+        "Pedagogical Issues related to EVS"
+      ]
+    },
+    {
+      "name": "Mathematics & Science (Paper II)",
+      "topics": [
+        "Number System",
+        "Algebra",
+        "Geometry",
+        "Mensuration",
+        "Food",
+        "Materials",
+        "The World of the Living",
+        "Moving Things",
+        "Natural Phenomena",
+        "Pedagogical issues"
+      ]
+    },
+    {
+      "name": "Social Studies/Social Science (Paper II)",
+      "topics": [
+        "History",
+        "Geography",
+        "Social and Political Life (Civics)",
+        "Pedagogical issues related to Social Science"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "CTET July 2024 Exam to be conducted on July 7, 2024",
+    "date": "2024-03-07",
+    "link": "https://ctet.nic.in/information-bulletin-for-ctet-jul-2024/"
+  },
+  "books": [
+    {
+      "title": "NCERT Textbooks for Classes I-VIII",
+      "author": "NCERT",
+      "link": ""
+    },
+    {
+      "title": "CTET & TETs Child Development & Pedagogy (Paper I & II)",
+      "author": "Arihant Experts",
+      "link": ""
+    },
+    {
+      "title": "A Complete Resource for CTET (Paper I & II separate books)",
+      "author": "Pearson",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "CTET Preparation | CDP, EVS, Maths Pedagogy",
+      "channelName": "Let's LEARN",
+      "url": "https://www.youtube.com/@LetsLEARN"
+    },
+    {
+      "title": "CTET Classes by Sachin Sir",
+      "channelName": "Sachin Academy",
+      "url": "https://www.youtube.com/@sachinacademy"
+    }
+  ]
+}

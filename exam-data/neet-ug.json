@@ -1,0 +1,131 @@
+{
+  "name": "NEET-UG (National Eligibility cum Entrance Test)",
+  "shortName": "neet-ug",
+  "description": "The single national-level undergraduate medical entrance examination for students who wish to pursue medical (MBBS), dental (BDS), and AYUSH (BAMS, BUMS, BHMS, etc.) courses in government and private institutions in India.",
+  "conductingBody": "National Testing Agency (NTA)",
+  "officialWebsite": "https://exams.nta.ac.in/NEET/",
+  "eligibility": {
+    "ageLimit": "Candidate must have completed 17 years of age on or before December 31 of the year of admission. There is no upper age limit.",
+    "educationalQualification": "Must have passed or be appearing for Class 12 or equivalent with Physics, Chemistry, Biology/Biotechnology and English as core subjects. Minimum 50% aggregate marks in PCB for General category, 40% for SC/ST/OBC-NCL.",
+    "nationality": "Indian Nationals, Non-Resident Indians (NRIs), Overseas Citizens of India (OCIs), Persons of Indian Origin (PIOs), and Foreign Nationals are eligible.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "February 9, 2024",
+    "applicationStartDate": "February 9, 2024",
+    "applicationEndDate": "April 15, 2024 (after extensions)",
+    "examDate": "May 5, 2024",
+    "resultDate": "June 14, 2024"
+  },
+  "examPattern": {
+    "mode": "Offline (Pen and Paper, OMR-based)",
+    "stages": [
+      {
+        "name": "Stage 1: NEET-UG Written Exam",
+        "description": "A single paper of 3 hours and 20 minutes duration. It contains 200 multiple-choice questions (180 to be attempted) from Physics, Chemistry, and Biology (Botany & Zoology). Each subject has two sections: Section A (35 questions, all compulsory) and Section B (15 questions, attempt any 10)."
+      },
+      {
+        "name": "Stage 2: Counselling",
+        "description": "Qualified candidates participate in online counselling conducted by the Medical Counselling Committee (MCC) for All India Quota seats and by respective State authorities for State Quota seats for admission to colleges."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "+4 marks are awarded for each correct answer. -1 mark is deducted for each incorrect answer. 0 marks for unattempted questions. The total marks are 720."
+  },
+  "syllabus": [
+    {
+      "name": "Physics",
+      "topics": [
+        "Class 11 & 12 NCERT Syllabus",
+        "Physical World and Measurement",
+        "Kinematics",
+        "Laws of Motion",
+        "Work, Energy, and Power",
+        "Thermodynamics",
+        "Electrostatics",
+        "Current Electricity",
+        "Electromagnetic Waves",
+        "Optics",
+        "Dual Nature of Matter and Radiation",
+        "Atoms and Nuclei"
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "topics": [
+        "Class 11 & 12 NCERT Syllabus",
+        "Some Basic Concepts of Chemistry",
+        "Structure of Atom",
+        "Chemical Bonding",
+        "Equilibrium",
+        "Redox Reactions",
+        "s, p, d, f-Block Elements",
+        "Coordination Compounds",
+        "Organic Chemistry - Basic Principles and Techniques",
+        "Hydrocarbons",
+        "Biomolecules",
+        "Polymers"
+      ]
+    },
+    {
+      "name": "Biology (Botany & Zoology)",
+      "topics": [
+        "Class 11 & 12 NCERT Syllabus",
+        "Diversity in Living World",
+        "Structural Organisation in Animals and Plants",
+        "Cell Structure and Function",
+        "Plant Physiology",
+        "Human Physiology",
+        "Reproduction",
+        "Genetics and Evolution",
+        "Biology and Human Welfare",
+        "Biotechnology and Its Applications",
+        "Ecology and Environment"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "NEET UG 2024 Result to be Declared on June 14, 2024",
+    "date": "2024-05-15",
+    "link": "https://exams.nta.ac.in/NEET/"
+  },
+  "books": [
+    {
+      "title": "NCERT Textbooks for Class 11 & 12 (Physics, Chemistry, Biology)",
+      "author": "NCERT",
+      "link": ""
+    },
+    {
+      "title": "Concepts of Physics (Vol 1 & 2)",
+      "author": "H. C. Verma",
+      "link": ""
+    },
+    {
+      "title": "Objective NCERT at your Fingertips (for all subjects)",
+      "author": "MTG Editorial Board",
+      "link": ""
+    },
+    {
+      "title": "Trueman's Elementary Biology (Vol 1 & 2)",
+      "author": "K.N. Bhatia & M.P. Tyagi",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "NEET Preparation & Live Classes",
+      "channelName": "Physics Wallah - Alakh Pandey",
+      "url": "https://www.youtube.com/@PhysicsWallah"
+    },
+    {
+      "title": "Unacademy NEET",
+      "channelName": "Unacademy NEET",
+      "url": "https://www.youtube.com/@UnacademyNEET"
+    },
+    {
+      "title": "Vedantu NEET Made Ejee",
+      "channelName": "Vedantu NEET Made Ejee",
+      "url": "https://www.youtube.com/@VedantuNEET"
+    }
+  ]
+}

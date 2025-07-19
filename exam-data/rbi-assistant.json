@@ -1,0 +1,168 @@
+{
+  "name": "RBI Assistant",
+  "shortName": "rbi-assistant",
+  "description": "A national-level competitive examination conducted by the Reserve Bank of India (RBI) for the recruitment of candidates for the post of 'Assistant' in various branches of the RBI across the country. It is a clerical-level position.",
+  "conductingBody": "Reserve Bank of India (RBI)",
+  "officialWebsite": "https://opportunities.rbi.org.in/",
+  "eligibility": {
+    "ageLimit": "Between 20 and 28 years. Age relaxation is applicable for candidates belonging to reserved categories as per government norms.",
+    "educationalQualification": "At least a Bachelor’s Degree in any discipline with a minimum of 50% marks (pass class for SC/ST/PwBD candidates) in the aggregate and the knowledge of word processing on PC.",
+    "nationality": "A Citizen of India, or a subject of Nepal, or a subject of Bhutan, or a Tibetan refugee who came over to India before 1st January 1962.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "September 13, 2023 (for the 2023 cycle). The exam is not conducted every year.",
+    "applicationStartDate": "September 13, 2023",
+    "applicationEndDate": "October 4, 2023",
+    "examDate": "Preliminary Exam: November 18 & 19, 2023. Main Exam: December 31, 2023.",
+    "resultDate": "Final result for the 2023 cycle was declared in May 2024."
+  },
+  "examPattern": {
+    "mode": "Online (Computer-Based Test)",
+    "stages": [
+      {
+        "name": "Stage 1: Preliminary Examination",
+        "description": "An online objective test of 100 marks with a duration of 1 hour (60 minutes), consisting of 3 sections with sectional timings. It is a qualifying exam."
+      },
+      {
+        "name": "Stage 2: Main Examination",
+        "description": "An online objective test of 200 marks with 200 questions. The duration is 135 minutes with sectional timings. Marks from the Main exam are considered for the final merit list."
+      },
+      {
+        "name": "Stage 3: Language Proficiency Test (LPT)",
+        "description": "Candidates provisionally shortlisted from the Main exam will have to undergo a Language Proficiency Test (LPT) in the official/local language of the state concerned. The LPT is qualifying in nature."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "For both Preliminary and Main exams, 1/4th (or 0.25) of the marks assigned to a question will be deducted for each wrong answer."
+  },
+  "syllabus": [
+    {
+      "name": "Preliminary Exam: English Language",
+      "topics": [
+        "Reading Comprehension",
+        "Cloze Test",
+        "Fillers",
+        "Error Spotting",
+        "Para Jumbles",
+        "Sentence Improvement",
+        "Vocabulary"
+      ]
+    },
+    {
+      "name": "Preliminary Exam: Numerical Ability",
+      "topics": [
+        "Data Interpretation (DI)",
+        "Simplification & Approximation",
+        "Number Series",
+        "Quadratic Equations",
+        "Arithmetic Word Problems (Percentage, Profit & Loss, Time & Work etc.)"
+      ]
+    },
+    {
+      "name": "Preliminary Exam: Reasoning Ability",
+      "topics": [
+        "Puzzles & Seating Arrangements",
+        "Syllogism",
+        "Inequality",
+        "Blood Relations",
+        "Coding-Decoding",
+        "Direction Sense",
+        "Alphanumeric Series"
+      ]
+    },
+    {
+      "name": "Main Exam: Test of Reasoning",
+      "topics": [
+        "Advanced Puzzles",
+        "Logical Reasoning",
+        "Data Sufficiency",
+        "Input-Output"
+      ]
+    },
+    {
+      "name": "Main Exam: Test of English Language",
+      "topics": [
+        "Advanced Reading Comprehension",
+        "Vocabulary based questions",
+        "Grammar",
+        "Sentence Rearrangement",
+        "Error Correction"
+      ]
+    },
+    {
+      "name": "Main Exam: Test of Numerical Ability",
+      "topics": [
+        "Advanced Data Interpretation (DI)",
+        "Data Sufficiency",
+        "Quantity Based Questions",
+        "Advanced Arithmetic"
+      ]
+    },
+    {
+      "name": "Main Exam: Test of General Awareness",
+      "topics": [
+        "Current Affairs (last 6 months)",
+        "Banking & Financial Awareness",
+        "RBI History & Functions",
+        "Static GK (Important Days, Capitals, etc.)",
+        "Economic Terms"
+      ]
+    },
+    {
+      "name": "Main Exam: Test of Computer Knowledge",
+      "topics": [
+        "History & Generation of Computers",
+        "Computer Hardware & Software",
+        "MS Office (Word, Excel, PowerPoint)",
+        "Internet & Networking",
+        "Abbreviations",
+        "Shortcuts"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "RBI Assistant 2023-24 Final Result Declared",
+    "date": "2024-05-15",
+    "link": "https://opportunities.rbi.org.in/Scripts/resultsnew.aspx"
+  },
+  "books": [
+    {
+      "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Objective General English",
+      "author": "S.P. Bakshi",
+      "link": ""
+    },
+    {
+      "title": "Lucent’s General Knowledge",
+      "author": "Dr. Binay Karna",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "RBI Assistant Preparation & Classes",
+      "channelName": "Adda247",
+      "url": "https://www.youtube.com/@Adda247"
+    },
+    {
+      "title": "RBI Assistant & Other Banking Exams",
+      "channelName": "Oliveboard",
+      "url": "https://www.youtube.com/@Oliveboard"
+    },
+    {
+      "title": "Free Banking Exam Preparation",
+      "channelName": "Bankers Way by Unacademy",
+      "url": "https://www.youtube.com/@BankersWay"
+    }
+  ]
+}

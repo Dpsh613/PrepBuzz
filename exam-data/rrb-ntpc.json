@@ -1,0 +1,141 @@
+{
+  "name": "RRB NTPC (Non-Technical Popular Categories)",
+  "shortName": "rrb-ntpc",
+  "description": "A national-level recruitment examination conducted by the Railway Recruitment Boards (RRBs) to fill various non-technical posts in the Indian Railways. It includes both undergraduate (12th pass) and graduate-level posts like Junior Clerk, Accounts Clerk, Goods Guard, Station Master, etc.",
+  "conductingBody": "Railway Recruitment Boards (RRBs)",
+  "officialWebsite": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
+  "eligibility": {
+    "ageLimit": "For Undergraduate Level posts (12th pass): 18 to 30 years. For Graduate Level posts: 18 to 33 years. Age relaxation is applicable for reserved categories (OBC, SC, ST, etc.) as per government rules.",
+    "educationalQualification": "For Undergraduate posts: 12th (+2 Stage) or its equivalent. For Graduate posts: A University Degree or its equivalent.",
+    "nationality": "A Citizen of India, or a subject of Nepal, or a subject of Bhutan, or a Tibetan refugee who came over to India before the 1st January 1962.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "Expected between July and September 2024, as per the RRB Annual Calendar.",
+    "applicationStartDate": "Expected between July and September 2024.",
+    "applicationEndDate": "To be announced with the notification.",
+    "examDate": "To be announced. The CBT-1 for the previous cycle (2019) was held from Dec 2020 to July 2021.",
+    "resultDate": "To be announced after the examination."
+  },
+  "examPattern": {
+    "mode": "Online (Computer-Based Test)",
+    "stages": [
+      {
+        "name": "Stage 1: First Stage Computer Based Test (CBT-1)",
+        "description": "A common screening test for all posts. Duration: 90 minutes. Contains 100 objective questions on Mathematics, General Intelligence & Reasoning, and General Awareness. It is qualifying in nature."
+      },
+      {
+        "name": "Stage 2: Second Stage Computer Based Test (CBT-2)",
+        "description": "Separate tests for different pay levels. Candidates shortlisted from CBT-1 appear for this. Duration: 90 minutes. Contains 120 objective questions on the same subjects as CBT-1 but with a higher difficulty level. Marks are considered for the final merit."
+      },
+      {
+        "name": "Stage 3: Skill Test / Aptitude Test",
+        "description": "This stage is qualifying and post-specific. It includes a Computer Based Aptitude Test (CBAT) for Station Master and Traffic Assistant posts, and a Typing Skill Test (TST) for clerical posts."
+      },
+      {
+        "name": "Stage 4: Document Verification and Medical Examination",
+        "description": "Candidates shortlisted based on their performance in CBT-2 and the skill test (where applicable) are called for DV and a medical fitness test."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "For both CBT-1 and CBT-2, 1 mark is awarded for each correct answer, and 1/3rd of a mark is deducted for each incorrect answer."
+  },
+  "syllabus": [
+    {
+      "name": "Mathematics",
+      "topics": [
+        "Number System",
+        "Decimals",
+        "Fractions",
+        "LCM & HCF",
+        "Ratio and Proportion",
+        "Percentage",
+        "Mensuration",
+        "Time and Work",
+        "Time and Distance",
+        "Simple and Compound Interest",
+        "Profit and Loss",
+        "Elementary Algebra",
+        "Geometry and Trigonometry",
+        "Elementary Statistics"
+      ]
+    },
+    {
+      "name": "General Intelligence and Reasoning",
+      "topics": [
+        "Analogies",
+        "Series",
+        "Coding-Decoding",
+        "Mathematical Operations",
+        "Syllogism",
+        "Jumbling",
+        "Venn Diagrams",
+        "Puzzles",
+        "Data Sufficiency",
+        "Statement-Conclusion",
+        "Analytical Reasoning",
+        "Classification",
+        "Directions"
+      ]
+    },
+    {
+      "name": "General Awareness",
+      "topics": [
+        "Current Events of National and International Importance",
+        "Indian History & Freedom Struggle",
+        "Physical, Social and Economic Geography of India and World",
+        "Indian Polity and Constitution",
+        "General Science (up to 10th Std)",
+        "Basics of Computers",
+        "Indian Economy",
+        "Art & Culture",
+        "Sports",
+        "Important Government & Public Sector Organizations"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "RRB Annual Calendar 2024 released, next NTPC notification (both graduate & undergraduate) scheduled for July-September 2024",
+    "date": "2024-02-02",
+    "link": "https://www.rrbchennai.gov.in/downloads/annual-calendar-for-rrb-recruitment.pdf"
+  },
+  "books": [
+    {
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Lucent's General Knowledge",
+      "author": "Dr. Binay Karna",
+      "link": ""
+    },
+    {
+      "title": "RRB NTPC Previous Year Solved Papers",
+      "author": "Various Publications (e.g., Kiran, Platform)",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "RRB NTPC & Railway Exam Preparation",
+      "channelName": "WiFi Study",
+      "url": "https://www.youtube.com/@wifistudy"
+    },
+    {
+      "title": "Examपुर",
+      "channelName": "Examपुर",
+      "url": "https://www.youtube.com/@Exampur"
+    },
+    {
+      "title": "Railway Exam Classes",
+      "channelName": "Adda247",
+      "url": "https://www.youtube.com/@Adda247"
+    }
+  ]
+}

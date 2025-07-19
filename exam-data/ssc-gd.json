@@ -1,0 +1,128 @@
+{
+  "name": "SSC GD Constable Exam",
+  "shortName": "ssc-gd",
+  "description": "A national-level examination conducted by the Staff Selection Commission (SSC) to recruit candidates for the posts of Constable (General Duty) in various Central Armed Police Forces (CAPFs) like BSF, CISF, CRPF, ITBP, SSB, as well as in the Secretariat Security Force (SSF), and Rifleman (General Duty) in Assam Rifles.",
+  "conductingBody": "Staff Selection Commission (SSC)",
+  "officialWebsite": "https://ssc.gov.in",
+  "eligibility": {
+    "ageLimit": "18-23 years. Age relaxation is applicable for reserved categories (SC, ST, OBC, Ex-Servicemen etc.) as per government rules.",
+    "educationalQualification": "Matriculation or 10th Class pass from a recognized Board/ University.",
+    "nationality": "A Citizen of India.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "Expected on August 27, 2024 (for the 2025 exam cycle, as per SSC Calendar).",
+    "applicationStartDate": "Expected on August 27, 2024.",
+    "applicationEndDate": "Expected on September 27, 2024.",
+    "examDate": "Expected in December 2024 - January 2025. (The last exam was held in Feb-March 2024).",
+    "resultDate": "Results are declared separately for each stage."
+  },
+  "examPattern": {
+    "mode": "Online (Computer-Based Examination)",
+    "stages": [
+      {
+        "name": "Stage 1: Computer Based Examination (CBE)",
+        "description": "An online objective test with 80 questions for a total of 160 marks, to be completed in 60 minutes. It has four parts: General Intelligence & Reasoning, General Knowledge & General Awareness, Elementary Mathematics, and English/Hindi."
+      },
+      {
+        "name": "Stage 2: Physical Efficiency Test (PET) & Physical Standard Test (PST)",
+        "description": "Candidates who clear the CBE are called for PET/PST. This stage is mandatory and qualifying in nature. PET involves running, while PST involves measurement of height and chest."
+      },
+      {
+        "name": "Stage 3: Detailed Medical Examination (DME) and Document Verification (DV)",
+        "description": "Candidates who qualify the PET/PST undergo a medical examination and document verification to ensure they meet all required standards."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "For the Computer Based Examination, +2 marks are awarded for each correct answer, and -0.25 marks are deducted for each incorrect answer."
+  },
+  "syllabus": [
+    {
+      "name": "General Intelligence & Reasoning",
+      "topics": [
+        "Analogies, Similarities and differences",
+        "Spatial visualization, Spatial orientation",
+        "Visual memory, Discrimination, Observation",
+        "Relationship concepts",
+        "Arithmetical reasoning and figural classification",
+        "Arithmetic number series, Non-verbal series",
+        "Coding and decoding"
+      ]
+    },
+    {
+      "name": "General Knowledge & General Awareness",
+      "topics": [
+        "India and its neighboring countries",
+        "Sports, History, Culture, Geography",
+        "Economic Scene, General Polity, Indian Constitution",
+        "Scientific Research",
+        "Current Affairs"
+      ]
+    },
+    {
+      "name": "Elementary Mathematics",
+      "topics": [
+        "Number Systems",
+        "Computation of Whole Numbers, Decimals and Fractions",
+        "Relationship between Numbers",
+        "Fundamental arithmetical operations",
+        "Percentages, Ratio and Proportion",
+        "Averages, Interest, Profit and Loss, Discount",
+        "Mensuration, Time and Distance, Ratio and Time, Time and Work"
+      ]
+    },
+    {
+      "name": "English / Hindi",
+      "topics": [
+        "Candidates' ability to understand basic English/Hindi and their basic comprehension would be tested.",
+        "Spot the Error, Fill in the Blanks, Synonyms/Antonyms, Spellings",
+        "Idioms & Phrases, One word substitution",
+        "Reading Comprehension"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "SSC issues Annual Calendar, next Constable (GD) notification scheduled for August 27, 2024",
+    "date": "2024-04-11",
+    "link": "https://ssc.gov.in/api/attachment/uploads/master/site/UPLOAD_20240411_151909_Calender_for_the_Year_2024_25.pdf"
+  },
+  "books": [
+    {
+      "title": "SSC Constable GD Guide",
+      "author": "Arihant Experts",
+      "link": ""
+    },
+    {
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Lucent's Samanya Gyan (for Hindi) / General Knowledge (for English)",
+      "author": "Dr. Binay Karna",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "SSC GD Constable Classes",
+      "channelName": "Rojgar with Ankit",
+      "url": "https://www.youtube.com/@RojgarwithAnkit"
+    },
+    {
+      "title": "SSC GD Exam Preparation",
+      "channelName": "SSC Adda247",
+      "url": "https://www.youtube.com/@SSCAdda247"
+    },
+    {
+      "title": "SSC GD Classes",
+      "channelName": "Examपुर",
+      "url": "https://www.youtube.com/@Exampur"
+    }
+  ]
+}

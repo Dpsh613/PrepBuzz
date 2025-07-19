@@ -1,0 +1,112 @@
+{
+  "name": "CS (Company Secretary) Exams",
+  "shortName": "icsi-cs",
+  "description": "A professional course and examination administered by the Institute of Company Secretaries of India (ICSI). The course trains students to become experts in corporate laws, corporate governance, and secretarial practices. The curriculum is divided into three levels: CSEET, Executive, and Professional.",
+  "conductingBody": "The Institute of Company Secretaries of India (ICSI)",
+  "officialWebsite": "https://www.icsi.edu",
+  "eligibility": {
+    "ageLimit": "Minimum age for CSEET is 17 years. There is no upper age limit for any level.",
+    "educationalQualification": "CSEET: Candidates who have passed or are appearing in the Senior Secondary (10+2) examination. \nExecutive Programme: Pass CSEET. Graduates/Postgraduates or candidates who have passed CA/CMA final exams are exempt from CSEET and can directly register. \nProfessional Programme: After passing both modules of the CS Executive Programme.",
+    "nationality": "Open to all nationalities, subject to ICSI regulations.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "Exam notifications are released a few months prior to the exam session.",
+    "applicationStartDate": "Admission/Registration is open throughout the year with cut-off dates for exam eligibility. Exam form submission for June/Dec sessions starts around Feb/Aug respectively.",
+    "applicationEndDate": "Exam form deadline is March 25 for the June session and September 25 for the December session (without late fee).",
+    "examDate": "Executive & Professional exams are held twice a year in June and December. CSEET is held four times a year in January, May, July, and November.",
+    "resultDate": "Executive/Professional results are declared on August 25 (for June session) and February 25 (for December session). CSEET results are usually out within 10 days."
+  },
+  "examPattern": {
+    "mode": "CSEET: Online (Remote Proctored). Executive & Professional: Offline (Centre-based Pen-Paper Test).",
+    "stages": [
+      {
+        "name": "Stage 1: CSEET (CS Executive Entrance Test)",
+        "description": "The entry-level test for the CS course. It is a computer-based test with MCQs, qualifying which makes a candidate eligible for the Executive Programme."
+      },
+      {
+        "name": "Stage 2: CS Executive Programme",
+        "description": "The second level, consisting of 7 papers divided into two modules. It covers core areas of company law, tax, and accounting."
+      },
+      {
+        "name": "Stage 3: Practical Training",
+        "description": "A mandatory 21-month practical training after passing the Executive Programme, which can be undertaken under a Company Secretary in practice or in a company."
+      },
+      {
+        "name": "Stage 4: CS Professional Programme",
+        "description": "The final level, consisting of 7 papers (including electives) divided into two modules, focusing on advanced and expert-level knowledge."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "For CSEET and other MCQ-based papers, a negative marking of 0.25 marks is applied for each incorrect answer. To pass a module (Executive/Professional), a candidate needs 40% in each paper and 50% in aggregate."
+  },
+  "syllabus": [
+    {
+      "name": "CSEET",
+      "topics": [
+        "Business Communication",
+        "Legal Aptitude and Logical Reasoning",
+        "Economic and Business Environment",
+        "Current Affairs"
+      ]
+    },
+    {
+      "name": "CS Executive Programme (Syllabus 2022)",
+      "topics": [
+        "Jurisprudence, Interpretation & General Laws",
+        "Company Law & Practice",
+        "Setting up of Business, Industrial & Labour Laws",
+        "Corporate Accounting and Financial Management",
+        "Capital Market & Securities Laws",
+        "Economic, Commercial and Intellectual Property Laws",
+        "Tax Laws & Practice"
+      ]
+    },
+    {
+      "name": "CS Professional Programme (Syllabus 2022)",
+      "topics": [
+        "Environmental, Social and Governance (ESG)",
+        "Drafting, Pleadings and Appearances",
+        "Compliance Management, Audit & Due Diligence",
+        "Strategic Management & Corporate Finance",
+        "Corporate Restructuring, Valuation and Insolvency",
+        "Elective 1 (e.g., CSR, IPR)",
+        "Elective 2 (e.g., Arbitration, Labour Laws)"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "Admit Cards released for CS Executive and Professional Programme - June 2024 Session",
+    "date": "2024-05-22",
+    "link": "https://www.icsi.edu/"
+  },
+  "books": [
+    {
+      "title": "Official Study Material, Guideline Answers, and Supplements",
+      "author": "The Institute of Company Secretaries of India (ICSI)",
+      "link": "https://www.icsi.edu/student/academic-portal/"
+    },
+    {
+      "title": "Scanners and Textbooks for CS Exams (Subject-wise)",
+      "author": "Taxmann Publications, Shuchita Prakashan",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "CS Exam Classes and Updates",
+      "channelName": "CS Cart India",
+      "url": "https://www.youtube.com/@cscartindia"
+    },
+    {
+      "title": "Unacademy CS",
+      "channelName": "Unacademy CS",
+      "url": "https://www.youtube.com/@UnacademyCS"
+    },
+    {
+      "title": "CS Jaspreet Dhillon",
+      "channelName": "CS Jaspreet Dhillon",
+      "url": "https://www.youtube.com/@CSJaspreetDhillon"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "name": "RRB Group D",
+  "shortName": "rrb-group-d",
+  "description": "A national-level recruitment examination conducted by the Railway Recruitment Boards (RRBs) on behalf of Railway Recruitment Cells (RRCs) for filling up various Level-1 posts (previously known as Group D) in the Indian Railways. Posts include Track Maintainer Grade-IV, Helper/Assistant in various technical departments, Pointsman, etc.",
+  "conductingBody": "Railway Recruitment Boards (RRBs) / Railway Recruitment Cells (RRCS)",
+  "officialWebsite": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244 (portal for all RRBs)",
+  "eligibility": {
+    "ageLimit": "18 to 33 years. Age relaxation is applicable for candidates belonging to reserved categories (OBC, SC, ST, PwBD) as per government norms.",
+    "educationalQualification": "Class 10th pass (or its equivalent) OR National Apprenticeship Certificate (NAC) granted by NCVT OR ITI from institutions recognised by NCVT/SCVT.",
+    "nationality": "A Citizen of India, or a subject of Nepal, or a subject of Bhutan, or a Tibetan refugee who came over to India before the 1st January 1962.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "The next notification is scheduled to be released between October and December 2024 as per the RRB Annual Calendar. (The last major notification was in February 2019).",
+    "applicationStartDate": "Expected between October and December 2024.",
+    "applicationEndDate": "Expected between November 2024 and January 2025.",
+    "examDate": "To be announced. (The last exam was conducted from August 17, 2022, to October 11, 2022).",
+    "resultDate": "To be announced after the examination."
+  },
+  "examPattern": {
+    "mode": "Online (Computer-Based Test)",
+    "stages": [
+      {
+        "name": "Stage 1: Computer Based Test (CBT)",
+        "description": "A single online objective test of 90 minutes duration for 100 questions. The test comprises four sections: General Science, Mathematics, General Intelligence & Reasoning, and General Awareness & Current Affairs."
+      },
+      {
+        "name": "Stage 2: Physical Efficiency Test (PET)",
+        "description": "Candidates who qualify the CBT are called for PET, which is qualifying in nature. It involves tasks like running a certain distance in a given time and lifting and carrying weight."
+      },
+      {
+        "name": "Stage 3: Document Verification (DV) and Medical Examination",
+        "description": "Candidates who clear the PET are called for Document Verification. Following DV, candidates undergo a medical fitness test as per railway standards."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "1 mark is awarded for each correct answer. 1/3rd of a mark is deducted for each incorrect answer."
+  },
+  "syllabus": [
+    {
+      "name": "Mathematics",
+      "topics": [
+        "Number system",
+        "BODMAS",
+        "Decimals",
+        "Fractions",
+        "LCM & HCF",
+        "Ratio and Proportion",
+        "Percentages",
+        "Mensuration",
+        "Time and Work",
+        "Time and Distance",
+        "Simple and Compound Interest",
+        "Profit and Loss",
+        "Algebra",
+        "Geometry and Trigonometry",
+        "Elementary Statistics"
+      ]
+    },
+    {
+      "name": "General Intelligence and Reasoning",
+      "topics": [
+        "Analogies",
+        "Alphabetical and Number Series",
+        "Coding and Decoding",
+        "Mathematical operations",
+        "Relationships",
+        "Syllogism",
+        "Jumbling",
+        "Venn Diagram",
+        "Data Interpretation and Sufficiency",
+        "Conclusions and Decision Making",
+        "Analytical reasoning",
+        "Classification",
+        "Directions"
+      ]
+    },
+    {
+      "name": "General Science",
+      "topics": [
+        "The syllabus under this shall cover Physics, Chemistry and Life Sciences of the 10th standard level (CBSE)."
+      ]
+    },
+    {
+      "name": "General Awareness and Current Affairs",
+      "topics": [
+        "Current Affairs in Science & Technology, Sports, Culture, Personalities, Economics, Politics",
+        "Static GK like Geography, History, Indian Polity and Constitution"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "RRB issues Annual Calendar for recruitment, next Level-1 (Group D) notification expected in Oct-Dec 2024",
+    "date": "2024-02-02",
+    "link": "https://www.rrbchennai.gov.in/downloads/annual-calendar-for-rrb-recruitment.pdf"
+  },
+  "books": [
+    {
+      "title": "NCERT Science Textbooks (Class 9 & 10)",
+      "author": "NCERT",
+      "link": ""
+    },
+    {
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Lucent’s General Knowledge",
+      "author": "Dr. Binay Karna",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "Railway Group D Classes",
+      "channelName": "WiFi Study",
+      "url": "https://www.youtube.com/@wifistudy"
+    },
+    {
+      "title": "RRB Group D Preparation",
+      "channelName": "Examपुर",
+      "url": "https://www.youtube.com/@Exampur"
+    },
+    {
+      "title": "Railway Exam Preparation",
+      "channelName": "Testbook SuperCoaching",
+      "url": "https://www.youtube.com/@TestbookSuperCoaching"
+    }
+  ]
+}

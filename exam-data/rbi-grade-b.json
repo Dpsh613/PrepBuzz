@@ -1,0 +1,133 @@
+{
+  "name": "RBI Grade B Officer",
+  "shortName": "rbi-grade-b",
+  "description": "A highly competitive national-level examination conducted by the Reserve Bank of India (RBI) for the recruitment of Grade B Officers (General, DEPR, and DSIM cadres). It is one of the most prestigious jobs in the Indian banking sector, offering a fast-track career in the country's central bank.",
+  "conductingBody": "Reserve Bank of India (RBI)",
+  "officialWebsite": "https://opportunities.rbi.org.in/",
+  "eligibility": {
+    "ageLimit": "21 to 30 years. Age relaxation is provided for specified categories (e.g., OBC, SC/ST, PwBD) and for candidates with M.Phil. and Ph.D. qualifications as per RBI norms.",
+    "educationalQualification": "For General (DR) post: A minimum of 60% marks (50% for SC/ST/PwBD) in a Bachelor's degree as well as in 12th (or Diploma or equivalent) and 10th standard examinations. Specific qualifications are required for DEPR and DSIM posts.",
+    "nationality": "A Citizen of India, or a subject of Nepal/Bhutan, or a Tibetan refugee who came to India before January 1, 1962.",
+    "numberOfAttempts": "Candidates belonging to the General Category are permitted a maximum of 6 attempts for the Phase-I examination. There is no restriction for SC/ST/OBC/PwBD candidates."
+  },
+  "timeline": {
+    "notificationDate": "May 9, 2023 (for 2023 cycle). The 2024 notification is awaited.",
+    "applicationStartDate": "May 9, 2023",
+    "applicationEndDate": "June 16, 2023",
+    "examDate": "Phase-I (General): July 9, 2023. Phase-II (General): July 30, 2023.",
+    "resultDate": "Final result for the 2023 cycle was declared on December 13, 2023."
+  },
+  "examPattern": {
+    "mode": "Phase-I: Online (Objective). Phase-II: Online (Objective + Descriptive/Keyboard-based). Interview: In-person.",
+    "stages": [
+      {
+        "name": "Stage 1: Phase-I Examination (Preliminary)",
+        "description": "An online objective test of 200 marks lasting 120 minutes. It has four sections: General Awareness, English Language, Quantitative Aptitude, and Reasoning. This is a qualifying examination."
+      },
+      {
+        "name": "Stage 2: Phase-II Examination (Main)",
+        "description": "Consists of three papers (total 300 marks). Paper-I (Economic & Social Issues) and Paper-III (Finance & Management) are a mix of objective and descriptive questions. Paper-II (English - Writing Skills) is fully descriptive."
+      },
+      {
+        "name": "Stage 3: Interview",
+        "description": "Candidates shortlisted after Phase-II are called for a Psychometric Test and a Personal Interview. The interview carries 75 marks. Final selection is based on the combined marks of Phase-II and the Interview."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "For objective questions in both Phase-I and Phase-II, 1/4th of the marks assigned to the question will be deducted for each wrong answer."
+  },
+  "syllabus": [
+    {
+      "name": "Phase I: General Awareness",
+      "topics": [
+        "Current Affairs (National & International)",
+        "Banking & Financial Awareness",
+        "Economic Survey",
+        "Union Budget",
+        "RBI Circulars",
+        "Static GK"
+      ]
+    },
+    {
+      "name": "Phase I: Reasoning, English & Quant",
+      "topics": [
+        "Puzzles, Seating Arrangement, Syllogism, Critical Reasoning",
+        "Reading Comprehension, Grammar, Vocabulary",
+        "Data Interpretation, Arithmetic Problems"
+      ]
+    },
+    {
+      "name": "Phase II Paper I: Economic and Social Issues (ESI)",
+      "topics": [
+        "Growth and Development",
+        "Indian Economy (pre & post 1991)",
+        "Globalization",
+        "Social Structure in India",
+        "Poverty Alleviation",
+        "Sustainable Development",
+        "Government Schemes"
+      ]
+    },
+    {
+      "name": "Phase II Paper II: English (Writing Skills)",
+      "topics": ["Essay Writing", "Reading Comprehension", "Precis Writing"]
+    },
+    {
+      "name": "Phase II Paper III: Finance and Management (F&M)",
+      "topics": [
+        "Financial System & Markets (Primary, Secondary)",
+        "Risk Management in Banking Sector",
+        "Basics of Derivatives",
+        "Recent Developments in the Financial Sector",
+        "Management Theories",
+        "Leadership, Motivation, Communication",
+        "Corporate Governance",
+        "Ethics"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "RBI Grade B 2024 Notification Expected to be Released Soon",
+    "date": "2024-05-30",
+    "link": "https://opportunities.rbi.org.in/"
+  },
+  "books": [
+    {
+      "title": "Indian Economy",
+      "author": "Ramesh Singh / Uma Kapila",
+      "link": ""
+    },
+    {
+      "title": "Indian Financial System",
+      "author": "M.Y. Khan",
+      "link": ""
+    },
+    {
+      "title": "Principles and Practice of Management",
+      "author": "L.M. Prasad",
+      "link": ""
+    },
+    {
+      "title": "Newspapers and Magazines",
+      "author": "The Hindu, Livemint, Business Standard, Yojana, Kurukshetra, RBI Website & Annual Reports",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "RBI Grade B Exam Strategy & Classes",
+      "channelName": "EduTap",
+      "url": "https://www.youtube.com/@EduTap"
+    },
+    {
+      "title": "Anuj Jindal",
+      "channelName": "Anuj Jindal",
+      "url": "https://www.youtube.com/@Anujjindal"
+    },
+    {
+      "title": "RBI Grade B & SEBI Grade A Prep",
+      "channelName": "Oliveboard",
+      "url": "https://www.youtube.com/@Oliveboard"
+    }
+  ]
+}

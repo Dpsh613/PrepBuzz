@@ -1,0 +1,109 @@
+{
+  "name": "CAT (Common Admission Test)",
+  "shortName": "cat",
+  "description": "A computer-based national-level management aptitude test for admission to postgraduate management programs (MBA/PGP) in Indian Institutes of Management (IIMs) and other leading business schools across India.",
+  "conductingBody": "One of the Indian Institutes of Management (IIMs) on a rotational basis.",
+  "officialWebsite": "https://iimcat.ac.in",
+  "eligibility": {
+    "ageLimit": "No age limit to apply for the CAT exam.",
+    "educationalQualification": "A Bachelor's degree with at least 50% marks or equivalent CGPA (45% for SC, ST, and PwD candidates). Final year students are also eligible to apply.",
+    "nationality": "No restrictions on nationality. However, candidates must check the admission policies of individual institutes.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "Typically released in the last week of July.",
+    "applicationStartDate": "Typically starts in the first week of August.",
+    "applicationEndDate": "Typically ends in the third week of September.",
+    "examDate": "Last Sunday of November annually. (For 2024, it is November 24, 2024).",
+    "resultDate": "Typically announced in the last week of December or the first week of January."
+  },
+  "examPattern": {
+    "mode": "Online (Computer-Based Test)",
+    "stages": [
+      {
+        "name": "Stage 1: CAT Exam",
+        "description": "A single-session, 2-hour online test divided into three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA)."
+      },
+      {
+        "name": "Stage 2: WAT, GD & PI",
+        "description": "Candidates shortlisted based on CAT scores are called by individual IIMs and other B-schools for the next stage of selection, which typically includes a Written Ability Test (WAT), Group Discussion (GD), and Personal Interview (PI)."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "For MCQs: +3 for a correct answer, -1 for an incorrect answer. For Non-MCQs (TITA - Type In The Answer): +3 for a correct answer, 0 for an incorrect answer. No marks for unattempted questions."
+  },
+  "syllabus": [
+    {
+      "name": "Verbal Ability & Reading Comprehension (VARC)",
+      "topics": [
+        "Reading Comprehension Passages",
+        "Para Jumbles (Sentence Rearrangement)",
+        "Para Summary",
+        "Odd Sentence Out"
+      ]
+    },
+    {
+      "name": "Data Interpretation & Logical Reasoning (DILR)",
+      "topics": [
+        "Tables",
+        "Bar Graphs",
+        "Line Charts",
+        "Pie Charts",
+        "Caselets",
+        "Seating Arrangement",
+        "Blood Relations",
+        "Syllogisms",
+        "Logical Puzzles",
+        "Venn Diagrams"
+      ]
+    },
+    {
+      "name": "Quantitative Aptitude (QA)",
+      "topics": [
+        "Arithmetic (Number System, Percentage, Profit & Loss, TSD, etc.)",
+        "Algebra",
+        "Geometry & Mensuration",
+        "Modern Mathematics (Permutation & Combination, Probability)"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "CAT 2024 Notification to be Released by IIM Calcutta in July 2024",
+    "date": "2024-05-28",
+    "link": "https://iimcat.ac.in"
+  },
+  "books": [
+    {
+      "title": "How to Prepare for Quantitative Aptitude for CAT",
+      "author": "Arun Sharma (McGraw-Hill)",
+      "link": ""
+    },
+    {
+      "title": "How to Prepare for Data Interpretation & Logical Reasoning for CAT (Set of 2 books)",
+      "author": "Arun Sharma (McGraw-Hill)",
+      "link": ""
+    },
+    {
+      "title": "How to Prepare for Verbal Ability and Reading Comprehension for CAT",
+      "author": "Arun Sharma & Meenakshi Upadhyay (McGraw-Hill)",
+      "link": ""
+    },
+    {
+      "title": "Word Power Made Easy",
+      "author": "Norman Lewis",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "CAT Preparation Strategy & Free Live Classes",
+      "channelName": "Unacademy CAT",
+      "url": "https://www.youtube.com/@UnacademyCAT"
+    },
+    {
+      "title": "Free CAT Coaching - DILR, Quant & VARC",
+      "channelName": "2IIM CAT Preparation",
+      "url": "https://www.youtube.com/@2IIM"
+    }
+  ]
+}

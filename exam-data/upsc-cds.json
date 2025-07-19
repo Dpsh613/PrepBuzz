@@ -1,0 +1,122 @@
+{
+  "name": "UPSC CDS (Combined Defence Services) Exam",
+  "shortName": "upsc-cds",
+  "description": "A national-level competitive examination conducted by the Union Public Service Commission (UPSC) twice a year for the recruitment of commissioned officers into the Indian Military Academy (IMA), Officers' Training Academy (OTA), Indian Naval Academy (INA), and Indian Air Force Academy (AFA).",
+  "conductingBody": "Union Public Service Commission (UPSC)",
+  "officialWebsite": "https://upsc.gov.in",
+  "eligibility": {
+    "ageLimit": "Varies by academy. For IMA & INA: 19-24 years. For AFA: 20-24 years. For OTA: 19-25 years. Candidates must be unmarried.",
+    "educationalQualification": "For IMA and OTA: Degree from a recognized university. \nFor INA: Degree in Engineering. \nFor AFA: Degree of a recognized University (with Physics and Mathematics at 10+2 level) or Bachelor of Engineering.",
+    "nationality": "A Citizen of India, or a subject of Nepal/Bhutan, or a Tibetan refugee who came to India before 1st January 1962 with the intention of permanently settling in India.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "May 15, 2024 (for CDS II, 2024)",
+    "applicationStartDate": "May 15, 2024",
+    "applicationEndDate": "June 4, 2024",
+    "examDate": "September 1, 2024 (for CDS II, 2024). The exam is held twice a year, typically in April and September.",
+    "resultDate": "Written exam results are usually declared within 1-2 months. Final results are declared after the SSB interviews."
+  },
+  "examPattern": {
+    "mode": "Offline (Pen and Paper based, OMR sheets)",
+    "stages": [
+      {
+        "name": "Stage 1: Written Examination",
+        "description": "An objective-type written test. For IMA, INA, and AFA, it comprises three papers (English, GK, Elementary Mathematics). For OTA, it comprises two papers (English, GK)."
+      },
+      {
+        "name": "Stage 2: SSB Interview (Service Selection Board)",
+        "description": "Candidates who clear the written exam are called for a 5-day interview process which includes intelligence tests, psychological tests, group tasks, and a personal interview to assess officer-like qualities."
+      },
+      {
+        "name": "Stage 3: Medical Examination",
+        "description": "Candidates recommended by the SSB undergo a detailed medical examination at designated military hospitals."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "There is negative marking for wrong answers. One-third (1/3) of the marks assigned to that question will be deducted as a penalty."
+  },
+  "syllabus": [
+    {
+      "name": "English",
+      "topics": [
+        "Vocabulary",
+        "Grammar and usage",
+        "Comprehension",
+        "Ordering of Words in a sentence",
+        "Spotting Errors",
+        "Sentence Improvement",
+        "Antonyms",
+        "Synonyms",
+        "Cloze Test"
+      ]
+    },
+    {
+      "name": "General Knowledge",
+      "topics": [
+        "Current Affairs (National and International)",
+        "History of India and Indian National Movement",
+        "Indian and World Geography",
+        "Indian Polity and Constitution",
+        "Economy",
+        "General Science (Physics, Chemistry, Biology)",
+        "Defence related news"
+      ]
+    },
+    {
+      "name": "Elementary Mathematics",
+      "topics": [
+        "Arithmetic (Number System, Percentage, Profit & Loss)",
+        "Algebra (Basic Operations, Quadratic Equations)",
+        "Trigonometry (Ratios, Identities, Heights and Distances)",
+        "Geometry (Lines, Angles, Triangles, Circles)",
+        "Mensuration (Area, Volume)",
+        "Statistics (Data interpretation, Charts)"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "UPSC CDS (II) 2024 Notification and Application Form Released",
+    "date": "2024-05-15",
+    "link": "https://upsc.gov.in/examinations/active-examinations"
+  },
+  "books": [
+    {
+      "title": "Pathfinder CDS",
+      "author": "Arihant Experts",
+      "link": ""
+    },
+    {
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Objective General English",
+      "author": "S.P. Bakshi",
+      "link": ""
+    },
+    {
+      "title": "NCERT textbooks for Science and Social Studies (Class 6-12)",
+      "author": "NCERT",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "BYJU'S Exam Prep: CDS, AFCAT & CAPF",
+      "channelName": "BYJU'S Exam Prep: CDS, AFCAT & CAPF",
+      "url": "https://www.youtube.com/@BYJUSExamPrepCDSAFCATCAPF"
+    },
+    {
+      "title": "Defence Adda247",
+      "channelName": "Defence Adda247",
+      "url": "https://www.youtube.com/@DefenceAdda247"
+    },
+    {
+      "title": "SSBCrackExams",
+      "channelName": "SSBCrackExams",
+      "url": "https://www.youtube.com/@SSBCrack"
+    }
+  ]
+}

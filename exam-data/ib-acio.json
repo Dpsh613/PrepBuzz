@@ -1,0 +1,139 @@
+{
+  "name": "IB ACIO (Intelligence Bureau Exam)",
+  "shortName": "ib-acio",
+  "description": "A national-level recruitment examination conducted by the Ministry of Home Affairs (MHA) for the post of Assistant Central Intelligence Officer (ACIO) Grade-II/Executive in the Intelligence Bureau.",
+  "conductingBody": "Ministry of Home Affairs (MHA), Government of India",
+  "officialWebsite": "https://www.mha.gov.in/en",
+  "eligibility": {
+    "ageLimit": "18 to 27 years. Age relaxation is applicable for reserved categories as per government norms.",
+    "educationalQualification": "Graduation (Bachelor's Degree) from a recognized university. Desirable: Knowledge of computers.",
+    "nationality": "Citizen of India",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "November 25, 2023 (for 2023-24 cycle)",
+    "applicationStartDate": "November 25, 2023 (for 2023-24 cycle)",
+    "applicationEndDate": "December 15, 2023 (for 2023-24 cycle)",
+    "examDate": "Tier-I: January 17 & 18, 2024. Tier-II: June 9, 2024.",
+    "resultDate": "Tier-I result was declared in February 2024."
+  },
+  "examPattern": {
+    "mode": "Tier-I: Online (CBT), Tier-II: Offline (Descriptive), Tier-III: In-person Interview",
+    "stages": [
+      {
+        "name": "Tier-I: Written Examination (Objective)",
+        "description": "An online test of 100 marks lasting 1 hour. It has 100 objective type MCQs, divided into 5 parts containing 20 questions of 1 mark each on: Current Affairs, General Studies, Numerical Aptitude, Reasoning/Logical Aptitude, and English."
+      },
+      {
+        "name": "Tier-II: Written Examination (Descriptive)",
+        "description": "An offline test of 50 marks lasting 1 hour. It includes an Essay (30 marks) and English comprehension & précis writing (20 marks)."
+      },
+      {
+        "name": "Tier-III: Interview",
+        "description": "Candidates who clear Tier-II are called for a personality test and interview, which is for 100 marks. A psychometric/aptitude test may be a part of the interview."
+      },
+      {
+        "name": "Stage 4: Document Verification & Medical Examination",
+        "description": "Final selection is subject to successful completion of character and antecedent verification followed by a medical examination."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "For Tier-I, there is a negative marking of 1/4 mark for each wrong answer. Tier-II is descriptive and marked subjectively."
+  },
+  "syllabus": [
+    {
+      "name": "Current Affairs & General Studies",
+      "topics": [
+        "National & International Affairs",
+        "History",
+        "Geography",
+        "Polity & Constitution",
+        "Economy",
+        "Science & Technology",
+        "Static GK"
+      ]
+    },
+    {
+      "name": "Numerical Aptitude",
+      "topics": [
+        "Percentage",
+        "Profit & Loss",
+        "Time & Work",
+        "Ratio & Proportion",
+        "Simple & Compound Interest",
+        "Number System",
+        "Data Interpretation"
+      ]
+    },
+    {
+      "name": "Reasoning & Logical Aptitude",
+      "topics": [
+        "Analogies",
+        "Similarities & Differences",
+        "Problem Solving",
+        "Coding-Decoding",
+        "Blood Relations",
+        "Syllogism",
+        "Verbal and Non-verbal reasoning"
+      ]
+    },
+    {
+      "name": "English Language",
+      "topics": [
+        "Vocabulary",
+        "Grammar",
+        "Sentence Structure",
+        "Synonyms & Antonyms",
+        "Reading Comprehension",
+        "Idioms & Phrases"
+      ]
+    },
+    {
+      "name": "Tier-II: Descriptive",
+      "topics": [
+        "Essay writing on contemporary national/international topics",
+        "Precis writing",
+        "Reading comprehension"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "IB ACIO Grade-II/Exe Tier-II exam scheduled for June 9, 2024",
+    "date": "2024-05-25",
+    "link": "https://www.mha.gov.in/en"
+  },
+  "books": [
+    {
+      "title": "Lucent's General Knowledge",
+      "author": "Dr. Binay Karna",
+      "link": ""
+    },
+    {
+      "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Objective General English",
+      "author": "S.P. Bakshi",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "IB ACIO Preparation | GA, Reasoning, Maths",
+      "channelName": "Adda247",
+      "url": "https://www.youtube.com/@Adda247"
+    },
+    {
+      "title": "IB ACIO Current Affairs and General Studies",
+      "channelName": "StudyIQ IAS",
+      "url": "https://www.youtube.com/@StudyIQIAS"
+    }
+  ]
+}

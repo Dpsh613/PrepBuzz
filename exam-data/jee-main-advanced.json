@@ -1,0 +1,118 @@
+{
+  "name": "JEE (Joint Entrance Examination - Main & Advanced)",
+  "shortName": "jee-main-advanced",
+  "description": "A two-stage national-level engineering entrance examination in India. JEE Main is for admission to NITs, IIITs, and other Centrally Funded Technical Institutions (CFTIs), and serves as the eligibility test for JEE Advanced. JEE Advanced is the exclusive entrance test for admission to the Indian Institutes of Technology (IITs).",
+  "conductingBody": "JEE Main: National Testing Agency (NTA). JEE Advanced: One of the seven zonal IITs on a rotational basis under the guidance of the Joint Admission Board (JAB). For 2024, the organizing institute is IIT Madras.",
+  "officialWebsite": "https://jeemain.nta.ac.in/, https://jeeadv.ac.in/",
+  "eligibility": {
+    "ageLimit": "For JEE Main, there is no age limit. For JEE Advanced, a candidate can attempt the exam a maximum of two times in two consecutive years.",
+    "educationalQualification": "Candidates must have passed their Class 12 or equivalent examination with Physics and Mathematics as compulsory subjects. For IITs/NITs/IIITs, candidates must secure at least 75% marks in Class 12 (65% for SC/ST) or be in the top 20 percentile of their respective boards.",
+    "nationality": "Open to Indian Nationals, PIOs, OCIs, and Foreign Nationals, with specific admission rules for each category.",
+    "numberOfAttempts": "JEE Main: Candidates can appear twice a year (Session 1 & 2) for three consecutive years. JEE Advanced: A maximum of two attempts in two consecutive years."
+  },
+  "timeline": {
+    "notificationDate": "JEE Main (Session 1): Nov 2023. JEE Main (Session 2): Feb 2024. JEE Advanced: April 2024.",
+    "applicationStartDate": "JEE Main (S1): Nov 1, 2023. JEE Main (S2): Feb 2, 2024. JEE Advanced: April 27, 2024.",
+    "applicationEndDate": "JEE Main (S1): Dec 4, 2023. JEE Main (S2): Mar 4, 2024. JEE Advanced: May 7, 2024.",
+    "examDate": "JEE Main (S1): Jan 24 - Feb 1, 2024. JEE Main (S2): April 4 - 12, 2024. JEE Advanced: May 26, 2024.",
+    "resultDate": "JEE Main (S1): Feb 12, 2024. JEE Main (S2): April 24, 2024. JEE Advanced: June 9, 2024."
+  },
+  "examPattern": {
+    "mode": "Online (Computer-Based Test)",
+    "stages": [
+      {
+        "name": "Stage 1: JEE Main",
+        "description": "Consists of two papers: Paper 1 for B.E./B.Tech and Paper 2 for B.Arch/B.Plan. Paper 1 has 90 questions (75 to be attempted) from Physics, Chemistry, and Mathematics. The top ~2,50,000 rankers become eligible for JEE Advanced."
+      },
+      {
+        "name": "Stage 2: JEE Advanced",
+        "description": "Consists of two compulsory papers (Paper 1 and Paper 2), each of 3 hours duration. Both papers test knowledge in Physics, Chemistry, and Mathematics. The question paper pattern is not fixed and varies each year."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "JEE Main: For MCQs, +4 for correct, -1 for incorrect. For Numerical Value Questions, +4 for correct, 0 for incorrect. \nJEE Advanced: Complex and varies. Includes multiple question types like single-correct, multiple-correct, numerical answer, etc., with different partial and negative marking schemes."
+  },
+  "syllabus": [
+    {
+      "name": "Physics",
+      "topics": [
+        "Mechanics",
+        "Thermodynamics",
+        "Electrodynamics",
+        "Optics",
+        "Modern Physics",
+        "Kinematics",
+        "Gravitation",
+        "Electromagnetic Induction"
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "topics": [
+        "Physical Chemistry (Atomic Structure, Chemical Bonding, Equilibrium, Chemical Kinetics)",
+        "Inorganic Chemistry (Periodic Table, p, d, f-block elements, Coordination Compounds)",
+        "Organic Chemistry (Hydrocarbons, Alcohols, Aldehydes, GOC, Biomolecules)"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "topics": [
+        "Algebra (Complex Numbers, Quadratic Equations, Matrices)",
+        "Calculus (Limits, Continuity, Differentiation, Integration)",
+        "Coordinate Geometry (Straight Lines, Circles, Conic Sections)",
+        "Vectors and 3D Geometry",
+        "Trigonometry",
+        "Probability"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "JEE Advanced 2024 Result to be released on June 9",
+    "date": "2024-05-27",
+    "link": "https://jeeadv.ac.in/"
+  },
+  "books": [
+    {
+      "title": "Concepts of Physics (Vol 1 & 2)",
+      "author": "H. C. Verma",
+      "link": ""
+    },
+    {
+      "title": "NCERT Textbooks for Physics, Chemistry, and Mathematics",
+      "author": "NCERT",
+      "link": ""
+    },
+    {
+      "title": "Problems in General Physics",
+      "author": "I. E. Irodov",
+      "link": ""
+    },
+    {
+      "title": "Mathematics for JEE Main & Advanced Series",
+      "author": "Cengage Publications",
+      "link": ""
+    },
+    {
+      "title": "Organic Chemistry",
+      "author": "Morrison and Boyd",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "JEE Main & Advanced Preparation",
+      "channelName": "Physics Wallah - Alakh Pandey",
+      "url": "https://www.youtube.com/@PhysicsWallah"
+    },
+    {
+      "title": "Unacademy JEE",
+      "channelName": "Unacademy JEE",
+      "url": "https://www.youtube.com/@unacademyjee"
+    },
+    {
+      "title": "Vedantu JEE",
+      "channelName": "Vedantu JEE",
+      "url": "https://www.youtube.com/@VedantuJEE"
+    }
+  ]
+}

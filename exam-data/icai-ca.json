@@ -1,0 +1,110 @@
+{
+  "name": "CA (Chartered Accountancy) Exams",
+  "shortName": "icai-ca",
+  "description": "A professional certification course and examination for individuals aspiring to become Chartered Accountants in India. The course is structured into three levels of examinations—Foundation, Intermediate, and Final—along with mandatory practical training (articleship).",
+  "conductingBody": "The Institute of Chartered Accountants of India (ICAI)",
+  "officialWebsite": "https://www.icai.org/",
+  "eligibility": {
+    "ageLimit": "No age limit for registering or appearing for the exams.",
+    "educationalQualification": "Foundation: Can register after passing Class 10 and appear after passing Class 12. \nIntermediate: Can be pursued via two routes: 1) Foundation Route: After clearing the CA Foundation exam. 2) Direct Entry Route: For commerce graduates/post-graduates (with 55% marks) or other graduates (with 60% marks), or those who have cleared the Intermediate level of ICSI/ICMAI. \nFinal: After clearing both groups of the CA Intermediate exam and completing practical training.",
+    "nationality": "Open to all nationalities, however, candidates should refer to ICAI regulations for specific details.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "Typically announced 2-3 months before the exam session.",
+    "applicationStartDate": "Application windows open separately for each session, usually in Feb/Mar for May/June session and July/Aug for Sep session.",
+    "applicationEndDate": "Usually about a month after the application start date.",
+    "examDate": "Exams are held multiple times a year. From 2024, sessions are in May/June, September, and January.",
+    "resultDate": "Results are typically declared within 6-8 weeks of the final exam date."
+  },
+  "examPattern": {
+    "mode": "Offline (Pen-and-Paper based)",
+    "stages": [
+      {
+        "name": "CA Foundation",
+        "description": "The entry-level test consisting of 4 papers. It's the first step to becoming a CA."
+      },
+      {
+        "name": "CA Intermediate",
+        "description": "The second level, consisting of 6 papers divided into two groups of 3 papers each. Students must clear this level to be eligible for the Final exam."
+      },
+      {
+        "name": "Practical Training (Articleship)",
+        "description": "A mandatory 2-year (under the new scheme) practical training period under a practicing Chartered Accountant after clearing both groups of the Intermediate examination."
+      },
+      {
+        "name": "CA Final",
+        "description": "The final and most challenging level, consisting of 6 papers divided into two groups of 3 papers each. Passing this level along with completing articleship qualifies one to become a CA."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "Negative marking of 0.25 marks for each wrong answer is applicable for objective-type questions (MCQs) in specific papers (e.g., Foundation Papers 3 & 4). In Intermediate and Final exams, some papers have a 30% MCQ component which may have negative marking. To pass a group, a candidate needs 40% in each paper and 50% in aggregate."
+  },
+  "syllabus": [
+    {
+      "name": "CA Foundation",
+      "topics": [
+        "Accounting",
+        "Business Laws",
+        "Quantitative Aptitude (Business Mathematics, Logical Reasoning and Statistics)",
+        "Business Economics"
+      ]
+    },
+    {
+      "name": "CA Intermediate",
+      "topics": [
+        "Advanced Accounting",
+        "Corporate and Other Laws",
+        "Taxation (Direct & Indirect)",
+        "Cost and Management Accounting",
+        "Auditing and Ethics",
+        "Financial Management and Strategic Management"
+      ]
+    },
+    {
+      "name": "CA Final",
+      "topics": [
+        "Financial Reporting",
+        "Advanced Financial Management",
+        "Advanced Auditing, Assurance and Professional Ethics",
+        "Direct Tax Laws and International Taxation",
+        "Indirect Tax Laws",
+        "Integrated Business Solutions (Multi-disciplinary case study with strategic management)"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "ICAI to conduct CA Inter and Foundation exams in September 2024",
+    "date": "2024-04-05",
+    "link": "https://www.icai.org/post/exam-may-june-2024"
+  },
+  "books": [
+    {
+      "title": "Official Study Material, Practice Manuals, and Revision Test Papers (RTPs)",
+      "author": "The Institute of Chartered Accountants of India (ICAI)",
+      "link": "https://www.icai.org/students"
+    },
+    {
+      "title": "Taxmann's series for CA Exams (Subject-wise)",
+      "author": "Taxmann Publications",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "CA Exams Preparation & Updates",
+      "channelName": "Unacademy CA",
+      "url": "https://www.youtube.com/@unacademyca"
+    },
+    {
+      "title": "Grooming Education Academy",
+      "channelName": "Grooming Education Academy",
+      "url": "https://www.youtube.com/@GroomingEducation"
+    },
+    {
+      "title": "CA Neeraj Arora",
+      "channelName": "CA Neeraj Arora",
+      "url": "https://www.youtube.com/@neerajarora"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "name": "AFCAT (Air Force Common Admission Test)",
+  "shortName": "afcat",
+  "description": "A national-level competitive examination conducted by the Indian Air Force (IAF) twice a year for the selection of officers in Flying, Ground Duty (Technical), and Ground Duty (Non-Technical) branches.",
+  "conductingBody": "Indian Air Force (IAF)",
+  "officialWebsite": "https://afcat.cdac.in/AFCAT/",
+  "eligibility": {
+    "ageLimit": "Flying Branch: 20 to 24 years. Ground Duty (Technical & Non-Technical): 20 to 26 years. Age limits are calculated as of a specific date mentioned in the notification. Marital Status: Candidates below 25 years of age must be unmarried at the time of commencement of course.",
+    "educationalQualification": "Varies by branch. Flying Branch: Graduates with 60% in any discipline with Physics & Maths at 10+2 level OR BE/B.Tech with 60%. Ground Duty (Technical): Specific B.E./B.Tech degrees with 60% marks. Ground Duty (Non-Technical): Graduate Degree (minimum 3 years) in any discipline with 60% marks.",
+    "nationality": "Must be a citizen of India.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "AFCAT 1: December; AFCAT 2: June. For AFCAT 2 2024, the notification was released on May 20, 2024.",
+    "applicationStartDate": "For AFCAT 2 2024: May 30, 2024",
+    "applicationEndDate": "For AFCAT 2 2024: June 28, 2024",
+    "examDate": "Conducted biannually in February and August. The exam for AFCAT 2 2024 is scheduled for August 9, 10, and 11, 2024.",
+    "resultDate": "Usually declared within 3-4 weeks after the exam."
+  },
+  "examPattern": {
+    "mode": "Both",
+    "stages": [
+      {
+        "name": "Stage 1: Online Written Examination",
+        "description": "An online test consisting of the AFCAT paper for all candidates. Candidates opting for Ground Duty (Technical) branch have to appear for an additional Engineering Knowledge Test (EKT). Total Duration: AFCAT (2 hours), EKT (45 minutes)."
+      },
+      {
+        "name": "Stage 2: Air Force Selection Board (AFSB) Testing",
+        "description": "Shortlisted candidates are called for AFSB testing at various centers. This 5-day process includes a Screening Test (Day 1) and further Psychological tests, Group Tests, and an Interview for successful candidates."
+      },
+      {
+        "name": "Stage 3: Medical Examination",
+        "description": "Candidates recommended by the AFSB will undergo a medical examination at the Air Force Central Medical Establishment (AFCME), New Delhi or Institute of Aviation Medicine, Bengaluru."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "For AFCAT: +3 marks for every correct answer, -1 mark for every incorrect answer. No marks for unattempted questions."
+  },
+  "syllabus": [
+    {
+      "name": "AFCAT Online Test",
+      "topics": [
+        "General Awareness",
+        "Verbal Ability in English",
+        "Numerical Ability",
+        "Reasoning and Military Aptitude Test"
+      ]
+    },
+    {
+      "name": "Engineering Knowledge Test (EKT)",
+      "topics": ["Mechanical", "Computer Science", "Electrical & Electronics"]
+    }
+  ],
+  "latestUpdate": {
+    "title": "AFCAT 2 2024 Application form is available from 30 May to 28 June 2024.",
+    "date": "2024-05-30",
+    "link": "https://afcat.cdac.in/AFCAT/"
+  },
+  "books": [
+    {
+      "title": "AFCAT (Air Force Common Admission Test) Exam Guide",
+      "author": "R. Gupta",
+      "link": ""
+    },
+    {
+      "title": "Manorama Yearbook",
+      "author": "Mammen Mathew",
+      "link": ""
+    },
+    {
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Let's Crack AFCAT, INET, & ICG",
+      "author": "SSBCrack",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "AFCAT Preparation & Defence Exams",
+      "channelName": "Defence Adda247",
+      "url": "https://www.youtube.com/@DefenceAdda247"
+    },
+    {
+      "title": "AFCAT Online Coaching & Classes",
+      "channelName": "SSBCrackExams",
+      "url": "https://www.youtube.com/@SSBCrackExams"
+    },
+    {
+      "title": "BYJU'S Exam Prep: Defence",
+      "channelName": "BYJU'S Exam Prep",
+      "url": "https://www.youtube.com/@BYJUSExamPrepDefence"
+    }
+  ]
+}

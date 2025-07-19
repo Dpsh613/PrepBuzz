@@ -1,0 +1,109 @@
+{
+  "name": "CMA (Cost and Management Accountancy) Exams",
+  "shortName": "icmai-cma",
+  "description": "A professional certification course for students who aspire to become Cost and Management Accountants. The course is structured into three levels—Foundation, Intermediate, and Final—and focuses on cost management, financial planning, and strategic decision-making.",
+  "conductingBody": "The Institute of Cost Accountants of India (ICMAI)",
+  "officialWebsite": "https://icmai.in/",
+  "eligibility": {
+    "ageLimit": "No age limit to register for the course or appear for the exams.",
+    "educationalQualification": "Foundation: Can register after passing Class 10 and appear after qualifying the Class 12 examination. \nIntermediate: Can be pursued after clearing the CMA Foundation exam or through a direct entry route for graduates in any discipline (other than Fine Arts). \nFinal: Can be pursued only after clearing both groups of the CMA Intermediate examination.",
+    "nationality": "Open to all nationalities, subject to the regulations of the ICMAI.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "Typically released 4-5 months before the exam term.",
+    "applicationStartDate": "Admission is open throughout the year. However, there are cut-off dates to be eligible for an exam term (e.g., Jan 31 for June term, July 31 for December term).",
+    "applicationEndDate": "Exam form filling happens approx. 2-3 months before the exam.",
+    "examDate": "Exams are held twice a year, in June and December. (e.g., June 2024 exams are from June 11 to June 18, 2024).",
+    "resultDate": "Typically declared within 2 months of the exam. (e.g., June term result by August 26, December term result by February 21)."
+  },
+  "examPattern": {
+    "mode": "Offline (Centre-Based Pen and Paper Test)",
+    "stages": [
+      {
+        "name": "CMA Foundation",
+        "description": "The entry-level examination consisting of 4 papers. It is the first step in the CMA course."
+      },
+      {
+        "name": "CMA Intermediate",
+        "description": "The second level of the CMA course, consisting of 8 papers divided into two groups of 4 papers each."
+      },
+      {
+        "name": "Practical Training",
+        "description": "A mandatory 15 months of practical training is required to be completed before a candidate can be awarded the CMA qualification."
+      },
+      {
+        "name": "CMA Final",
+        "description": "The final level of the course, consisting of 8 papers divided into two groups of 4 papers each. Passing this level makes a candidate eligible to become a Cost and Management Accountant."
+      }
+    ],
+    "negativeMarking": false,
+    "markingScheme": "There is no negative marking. To pass a group, a candidate must obtain a minimum of 40% marks in each paper and an aggregate of 50% in all the papers of that group."
+  },
+  "syllabus": [
+    {
+      "name": "CMA Foundation",
+      "topics": [
+        "Fundamentals of Business Laws and Business Communication",
+        "Fundamentals of Financial and Cost Accounting",
+        "Fundamentals of Business Mathematics and Statistics",
+        "Fundamentals of Business Economics and Management"
+      ]
+    },
+    {
+      "name": "CMA Intermediate",
+      "topics": [
+        "Business Laws and Ethics",
+        "Financial Accounting",
+        "Direct and Indirect Taxation",
+        "Cost Accounting",
+        "Operations Management and Strategic Management",
+        "Corporate Accounting and Auditing",
+        "Financial Management and Business Data Analytics",
+        "Management Accounting"
+      ]
+    },
+    {
+      "name": "CMA Final",
+      "topics": [
+        "Corporate and Economic Laws",
+        "Strategic Financial Management",
+        "Direct Tax Laws and International Taxation",
+        "Strategic Cost Management",
+        "Cost and Management Audit",
+        "Corporate Financial Reporting",
+        "Indirect Tax Laws and Practice",
+        "Strategic Performance Management and Business Valuation"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "Examination Time Table for June 2024 Term of Examinations",
+    "date": "2024-03-20",
+    "link": "https://icmai.in/studentswebsite/exam_notifications.php"
+  },
+  "books": [
+    {
+      "title": "Official Study Material, Workbooks, and Mock Test Papers",
+      "author": "The Institute of Cost Accountants of India (ICMAI)",
+      "link": "https://icmai.in/studentswebsite/Syl-2022-Final-StdyMtrl.php"
+    },
+    {
+      "title": "Scanner/Question Bank for CMA Exams (Subject-wise)",
+      "author": "Various publications like Shuchita Prakashan",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "CMA Inter & Final Classes",
+      "channelName": "MEPL Classes - CMA CS CA",
+      "url": "https://www.youtube.com/@MEPLClasses"
+    },
+    {
+      "title": "SJC Institute - CA & CMA",
+      "channelName": "SJC Institute",
+      "url": "https://www.youtube.com/@sjc_institute"
+    }
+  ]
+}

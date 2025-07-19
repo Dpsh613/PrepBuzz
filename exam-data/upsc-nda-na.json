@@ -1,0 +1,106 @@
+{
+  "name": "UPSC NDA & NA (National Defence Academy) Exam",
+  "shortName": "upsc-nda-na",
+  "description": "A national-level examination conducted by the Union Public Service Commission (UPSC) twice a year for admission to the Army, Navy, and Air Force wings of the National Defence Academy (NDA), and for the Indian Naval Academy Course (NA). It is a gateway for candidates looking to join the defence forces as officers after the 10+2 level.",
+  "conductingBody": "Union Public Service Commission (UPSC)",
+  "officialWebsite": "https://upsc.gov.in/",
+  "eligibility": {
+    "ageLimit": "Unmarried male and female candidates aged between 16.5 to 19.5 years. For NDA (II) 2024, candidates must be born not earlier than January 2, 2006 and not later than January 1, 2009.",
+    "educationalQualification": "For Army Wing: Passed 12th Class or equivalent examination. For Air Force and Naval Wings of NDA and for the 10+2 Cadet Entry Scheme at the Indian Naval Academy: Passed 12th Class with Physics, Chemistry and Mathematics.",
+    "nationality": "A Citizen of India, or a subject of Nepal/Bhutan, or a Tibetan refugee who came to India before January 1, 1962.",
+    "numberOfAttempts": "No limit on the number of attempts. Candidates can apply as long as they meet the age and educational eligibility criteria."
+  },
+  "timeline": {
+    "notificationDate": "This exam is held twice a year. NDA (II) 2024 Notification: May 15, 2024.",
+    "applicationStartDate": "NDA (II) 2024: May 15, 2024",
+    "applicationEndDate": "NDA (II) 2024: June 4, 2024",
+    "examDate": "NDA (I) is held in April/May. NDA (II) is held in September. NDA (II) 2024 Exam Date: September 1, 2024.",
+    "resultDate": "Written exam results are declared within 1-2 months. Final results are declared after the SSB interviews for the batch are completed."
+  },
+  "examPattern": {
+    "mode": "Offline (Pen and Paper based OMR sheets)",
+    "stages": [
+      {
+        "name": "Stage 1: Written Examination",
+        "description": "Consists of two papers. Paper-I: Mathematics (300 marks) and Paper-II: General Ability Test (GAT) (600 marks). Total marks for the written exam are 900."
+      },
+      {
+        "name": "Stage 2: SSB Interview (Service Selection Board)",
+        "description": "A 5-day comprehensive personality and intelligence test conducted for candidates who clear the written exam. It includes psychological tests, group tasks (GTO), and a personal interview. This stage also carries 900 marks."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "For the written exam: In the Mathematics paper, each question carries 2.5 marks for a correct answer and a penalty of -0.83 for a wrong answer. In the GAT paper, each question carries 4 marks for a correct answer and a penalty of -1.33 for a wrong answer."
+  },
+  "syllabus": [
+    {
+      "name": "Paper I: Mathematics",
+      "topics": [
+        "Algebra",
+        "Matrices and Determinants",
+        "Trigonometry",
+        "Analytical Geometry of Two and Three Dimensions",
+        "Differential Calculus",
+        "Integral Calculus and Differential Equations",
+        "Vector Algebra",
+        "Statistics and Probability"
+      ]
+    },
+    {
+      "name": "Paper II: General Ability Test (GAT)",
+      "topics": [
+        "Part A - English: Grammar and usage, vocabulary, comprehension, and cohesion.",
+        "Part B - General Knowledge: Physics, Chemistry, General Science, History & Freedom Movement, Geography, and Current Events."
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "UPSC NDA (II) 2024 Application Form Released",
+    "date": "2024-05-15",
+    "link": "https://upsc.gov.in/examinations/active-examinations/national-defence-academy-and-naval-academy-examination-ii-2024"
+  },
+  "books": [
+    {
+      "title": "Pathfinder for NDA & NA",
+      "author": "Arihant Publications"
+    },
+    {
+      "title": "Mathematics for NDA and NA",
+      "author": "R.S. Aggarwal"
+    },
+    {
+      "title": "Objective General English",
+      "author": "S.P. Bakshi"
+    },
+    {
+      "title": "NCERT Textbooks for Physics, Chemistry, Maths",
+      "author": "Classes 11 & 12"
+    },
+    {
+      "title": "Lucent's General Knowledge",
+      "author": "Dr. Binay Karna"
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "NDA & other Defence Exams",
+      "channelName": "Defence Adda247",
+      "url": "https://www.youtube.com/@DefenceAdda247"
+    },
+    {
+      "title": "NDA Exam Preparation",
+      "channelName": "PW Defence Wallah",
+      "url": "https://www.youtube.com/@DefenceWallah"
+    },
+    {
+      "title": "SSBCrackExams",
+      "channelName": "SSBCrackExams",
+      "url": "https://www.youtube.com/@SSBCrack"
+    },
+    {
+      "title": "NDA, CDS, AFCAT",
+      "channelName": "Unacademy Defence Gurus",
+      "url": "https://www.youtube.com/@UnacademyDefenceGurus"
+    }
+  ]
+}

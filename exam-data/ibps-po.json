@@ -1,0 +1,151 @@
+{
+  "name": "IBPS PO (Probationary Officer)",
+  "shortName": "ibps-po",
+  "description": "A Common Written Examination (CWE) conducted annually by the Institute of Banking Personnel Selection (IBPS) for the recruitment of Probationary Officers (PO) / Management Trainees (MT) in various Public Sector Banks in India.",
+  "conductingBody": "Institute of Banking Personnel Selection (IBPS)",
+  "officialWebsite": "https://www.ibps.in",
+  "eligibility": {
+    "ageLimit": "20 to 30 years. Age relaxation is applicable for reserved categories as per government norms.",
+    "educationalQualification": "A Degree (Graduation) in any discipline from a University recognised by the Govt. Of India. The candidate must possess a valid Mark-sheet / Degree Certificate.",
+    "nationality": "A Citizen of India or a subject of Nepal or Bhutan, or a Tibetan Refugee who came over to India before 1st January 1962 with the intention of permanently settling in India.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "Expected in August 2024 (For 2023, it was August 1, 2023)",
+    "applicationStartDate": "Expected in August 2024",
+    "applicationEndDate": "Expected in August 2024",
+    "examDate": "Prelims: October 19 & 20, 2024. Mains: November 30, 2024 (As per IBPS Calendar 2024-25)",
+    "resultDate": "Final allotment result is declared on April 1 of the following year."
+  },
+  "examPattern": {
+    "mode": "Online (Computer-Based Test)",
+    "stages": [
+      {
+        "name": "Stage 1: Preliminary Examination",
+        "description": "An online objective test of 100 marks with a duration of 1 hour (60 minutes), comprising 3 sections with individual timings. This stage is qualifying in nature."
+      },
+      {
+        "name": "Stage 2: Main Examination",
+        "description": "Consists of an Online Objective Test (200 marks) and an Online Descriptive Test (25 marks). Both are conducted on the same day. Marks from both are considered for shortlisting for the interview."
+      },
+      {
+        "name": "Stage 3: Interview",
+        "description": "Candidates who clear the Main exam are called for an in-person interview conducted by the participating banks and coordinated by the nodal bank in each state/UT. The interview carries 100 marks."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "For objective tests (Prelims and Mains), 1/4th (or 0.25) of the marks assigned to a question will be deducted for each wrong answer. The descriptive paper is evaluated manually."
+  },
+  "syllabus": [
+    {
+      "name": "Preliminary Exam: English Language",
+      "topics": [
+        "Reading Comprehension",
+        "Cloze Test",
+        "Error Spotting",
+        "Para Jumbles",
+        "Fillers",
+        "Sentence Improvement"
+      ]
+    },
+    {
+      "name": "Preliminary Exam: Quantitative Aptitude",
+      "topics": [
+        "Simplification/Approximation",
+        "Number Series",
+        "Data Interpretation (DI)",
+        "Quadratic Equations",
+        "Arithmetic Problems"
+      ]
+    },
+    {
+      "name": "Preliminary Exam: Reasoning Ability",
+      "topics": [
+        "Puzzles & Seating Arrangements",
+        "Syllogism",
+        "Inequality",
+        "Blood Relations",
+        "Coding-Decoding",
+        "Direction Sense"
+      ]
+    },
+    {
+      "name": "Main Exam: Reasoning & Computer Aptitude",
+      "topics": [
+        "Advanced Puzzles",
+        "Logical & Critical Reasoning",
+        "Data Sufficiency",
+        "Computer Basics",
+        "Networking",
+        "MS Office"
+      ]
+    },
+    {
+      "name": "Main Exam: General/Economy/Banking Awareness",
+      "topics": [
+        "Current Affairs (last 6 months)",
+        "Banking & Financial Awareness",
+        "RBI Policies",
+        "Static GK",
+        "Government Schemes"
+      ]
+    },
+    {
+      "name": "Main Exam: English Language",
+      "topics": [
+        "Advanced Reading Comprehension",
+        "Vocabulary",
+        "Grammar",
+        "Descriptive Paper (Letter Writing & Essay)"
+      ]
+    },
+    {
+      "name": "Main Exam: Data Analysis & Interpretation",
+      "topics": [
+        "Advanced Data Interpretation (Tabular, Bar, Line, Pie, Caselet)",
+        "Data Sufficiency",
+        "Probability",
+        "Permutation & Combination"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "IBPS Calendar 2024-25 Released, PO Prelims on Oct 19 & 20, Mains on Nov 30, 2024",
+    "date": "2024-01-15",
+    "link": "https://www.ibps.in/wp-content/uploads/Tentative_Calendar_of_Online_CRP_for_RRBs_PSBs_2024-25.pdf"
+  },
+  "books": [
+    {
+      "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Objective General English",
+      "author": "S.P. Bakshi",
+      "link": ""
+    },
+    {
+      "title": "A Complete Book on Data Interpretation & Analysis",
+      "author": "Adda247 Publications",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "IBPS PO Classes & Strategy",
+      "channelName": "Adda247",
+      "url": "https://www.youtube.com/@Adda247"
+    },
+    {
+      "title": "Free Banking Exam Preparation",
+      "channelName": "Bankers Way by Unacademy",
+      "url": "https://www.youtube.com/@BankersWay"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "name": "UPSC Civil Services Exam (CSE)",
+  "shortName": "upsc-cse",
+  "description": "The Civil Services Examination (CSE) is a nationwide competitive examination in India conducted by the Union Public Service Commission (UPSC) for recruitment to various top-tier Civil Services of the Government of India, including the Indian Administrative Service (IAS), Indian Foreign Service (IFS), and Indian Police Service (IPS).",
+  "conductingBody": "Union Public Service Commission (UPSC)",
+  "officialWebsite": "https://upsc.gov.in/",
+  "eligibility": {
+    "ageLimit": "A candidate must have attained the age of 21 years and must not have attained the age of 32 years on the 1st of August of the examination year. Relaxations apply for reserved categories (OBC: 3 years, SC/ST: 5 years, PwBD: 10 years).",
+    "educationalQualification": "A candidate must hold a degree from any of the Universities incorporated by an Act of the central or State Legislature in India or other educational institutions established by an Act of Parliament or declared to be deemed as a University.",
+    "nationality": "For IAS and IPS, a candidate must be a citizen of India. For other services, a candidate can be a citizen of India, or a subject of Nepal, or a subject of Bhutan, or a Tibetan refugee who came to India before 1st January, 1962.",
+    "numberOfAttempts": {
+      "General": 6,
+      "OBC": 9,
+      "SC/ST": "Unlimited (subject to age limit)",
+      "PwBD (General/EWS)": 9
+    }
+  },
+  "timeline": {
+    "notificationDate": "Typically in February",
+    "applicationStartDate": "Typically in February",
+    "applicationEndDate": "Typically late February or early March",
+    "examDate": "Preliminary Exam: May/June; Main Exam: September/October",
+    "resultDate": "The final result is usually declared in April or May of the following year."
+  },
+  "examPattern": {
+    "mode": "Offline (Pen and Paper based) for both Prelims and Mains. The interview is conducted in-person.",
+    "stages": [
+      {
+        "name": "Stage 1: Preliminary Examination (Objective Type)",
+        "description": "Consists of two compulsory papers of 200 marks each (General Studies Paper-I and General Studies Paper-II or CSAT). CSAT is qualifying with 33% marks required. Marks of GS Paper-I determine the cut-off for the Main exam."
+      },
+      {
+        "name": "Stage 2: Main Examination (Written/Descriptive Type)",
+        "description": "Comprises 9 papers, including two qualifying papers (Indian Language and English) and seven merit-based papers (Essay, four General Studies papers, and two papers of one optional subject)."
+      },
+      {
+        "name": "Stage 3: Personality Test (Interview)",
+        "description": "An in-person interview of 275 marks to assess the candidate's personality, suitability, and mental calibre for a career in public service. Final merit is based on Mains (1750 marks) + Interview (275 marks)."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "In the Preliminary Exam, there is a penalty of one-third (0.33) of the marks assigned to a question for each incorrect answer. There is no negative marking in the Main Examination."
+  },
+  "syllabus": [
+    {
+      "name": "Preliminary Exam",
+      "topics": "Paper I (General Studies): Current events, History of India, Indian and World Geography, Indian Polity, Economic and Social Development, Environmental Ecology, General Science. Paper II (CSAT): Comprehension, Logical reasoning, Basic numeracy, etc. (Qualifying)."
+    },
+    {
+      "name": "Main Exam",
+      "topics": "Detailed syllabus covering Essay, Indian Heritage and Culture, History (GS-I); Governance, Constitution, Polity, Social Justice, International Relations (GS-II); Technology, Economic Development, Environment, Security (GS-III); Ethics, Integrity, Aptitude (GS-IV); and one optional subject."
+    }
+  ],
+  "latestUpdate": {
+    "title": "UPSC CSE 2024 Preliminary Exam conducted on June 16, 2024",
+    "date": "2024-06-16",
+    "link": "https://upsc.gov.in/"
+  },
+  "books": [
+    { "title": "Indian Polity", "author": "M. Laxmikanth" },
+    {
+      "title": "A Brief History of Modern India",
+      "author": "Spectrum Books (Rajiv Ahir)"
+    },
+    {
+      "title": "Certificate Physical and Human Geography",
+      "author": "Goh Cheng Leong"
+    },
+    { "title": "Indian Economy", "author": "Ramesh Singh / Sanjiv Verma" },
+    { "title": "Environment", "author": "Shankar IAS Academy" },
+    { "title": "NCERT Textbooks", "author": "Classes 6-12" }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "StudyIQ IAS",
+      "channelName": "Study IQ IAS",
+      "url": "https://www.youtube.com/@studyiqias"
+    },
+    {
+      "title": "Vision IAS",
+      "channelName": "Vision IAS",
+      "url": "https://www.youtube.com/@Vision_IAS"
+    },
+    {
+      "title": "Drishti IAS",
+      "channelName": "Drishti IAS",
+      "url": "https://www.youtube.com/@DrishtiIASeng"
+    }
+  ]
+}

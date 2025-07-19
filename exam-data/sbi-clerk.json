@@ -1,0 +1,162 @@
+{
+  "name": "SBI Clerk (Junior Associates)",
+  "shortName": "sbi-clerk",
+  "description": "A highly competitive national-level examination conducted by the State Bank of India (SBI) for the recruitment of Junior Associates (Customer Support & Sales). This is a clerical cadre post in various branches of SBI across the country.",
+  "conductingBody": "State Bank of India (SBI)",
+  "officialWebsite": "https://sbi.co.in/web/careers",
+  "eligibility": {
+    "ageLimit": "Between 20 and 28 years. Age relaxation is applicable for reserved categories (OBC, SC/ST, PwBD, etc.) as per government norms.",
+    "educationalQualification": "Graduation in any discipline from a recognised University or any equivalent qualification. Final year students are also eligible to apply provisionally. Proficiency (reading, writing, speaking, and understanding) in the specified opted local language is required.",
+    "nationality": "A Citizen of India.",
+    "numberOfAttempts": "There are restrictions on the number of attempts for the SBI Clerk exam. For the General/EWS category, it is 4. Relaxations are available for other categories."
+  },
+  "timeline": {
+    "notificationDate": "November 16, 2023 (for the 2023-24 cycle). The exam is usually conducted annually.",
+    "applicationStartDate": "November 17, 2023",
+    "applicationEndDate": "December 10, 2023 (after extension)",
+    "examDate": "Preliminary Exam: January 5, 6, 11, 12, 2024. Main Exam: February 25 & March 4, 2024.",
+    "resultDate": "The final result for the 2023-24 cycle is expected in June 2024."
+  },
+  "examPattern": {
+    "mode": "Online (Computer-Based Test)",
+    "stages": [
+      {
+        "name": "Stage 1: Preliminary Examination",
+        "description": "An online objective test of 100 marks with a duration of 1 hour (60 minutes), divided into three sections with separate timings. This stage is qualifying in nature."
+      },
+      {
+        "name": "Stage 2: Main Examination",
+        "description": "An online objective test of 200 marks with 190 questions. The duration is 2 hours and 40 minutes (160 minutes) with sectional timings. Marks obtained in the Main exam are considered for the final merit list. There is no interview."
+      },
+      {
+        "name": "Stage 3: Language Proficiency Test (LPT)",
+        "description": "Candidates who have not studied the specified opted local language in their 10th or 12th standard will be required to take this qualifying test after the Main exam."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "For both Preliminary and Main exams, 1/4th (or 0.25) of the mark assigned to a question will be deducted for each wrong answer."
+  },
+  "syllabus": [
+    {
+      "name": "Preliminary Exam: English Language",
+      "topics": [
+        "Reading Comprehension",
+        "Cloze Test",
+        "Fillers",
+        "Error Spotting",
+        "Para Jumbles",
+        "Vocabulary"
+      ]
+    },
+    {
+      "name": "Preliminary Exam: Numerical Ability",
+      "topics": [
+        "Simplification/Approximation",
+        "Number Series",
+        "Data Interpretation (DI)",
+        "Quadratic Equations",
+        "Arithmetic Word Problems (Percentage, Profit & Loss, Time & Work, etc.)"
+      ]
+    },
+    {
+      "name": "Preliminary Exam: Reasoning Ability",
+      "topics": [
+        "Puzzles & Seating Arrangements",
+        "Syllogism",
+        "Inequality",
+        "Blood Relations",
+        "Coding-Decoding",
+        "Direction Sense",
+        "Alphanumeric Series"
+      ]
+    },
+    {
+      "name": "Main Exam: General/Financial Awareness",
+      "topics": [
+        "Current Affairs (last 6 months)",
+        "Banking & Financial Awareness",
+        "Static GK",
+        "Economic news",
+        "Budget and Five Year Plans",
+        "Government Schemes"
+      ]
+    },
+    {
+      "name": "Main Exam: General English",
+      "topics": [
+        "Advanced Reading Comprehension",
+        "Vocabulary",
+        "Grammar",
+        "Sentence Rearrangement",
+        "Error Correction",
+        "Fillers"
+      ]
+    },
+    {
+      "name": "Main Exam: Quantitative Aptitude",
+      "topics": [
+        "Advanced Data Interpretation (DI)",
+        "Data Sufficiency",
+        "Quantity Comparison",
+        "Advanced Arithmetic Problems"
+      ]
+    },
+    {
+      "name": "Main Exam: Reasoning Ability & Computer Aptitude",
+      "topics": [
+        "Advanced Puzzles",
+        "Logical Reasoning",
+        "Data Sufficiency",
+        "Input-Output",
+        "Basics of Computer History & Generations",
+        "MS Office",
+        "Internet & Networking",
+        "Abbreviations"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "SBI Clerk Mains Result 2024 for the exam held on Feb 25 and Mar 4 is expected to be released in June 2024.",
+    "date": "2024-05-30",
+    "link": "https://sbi.co.in/web/careers/current-openings"
+  },
+  "books": [
+    {
+      "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Quantitative Aptitude for Competitive Examinations",
+      "author": "R.S. Aggarwal",
+      "link": ""
+    },
+    {
+      "title": "Objective General English",
+      "author": "S.P. Bakshi",
+      "link": ""
+    },
+    {
+      "title": "Banking Awareness",
+      "author": "Arihant Publications",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "SBI Clerk Preparation & Classes",
+      "channelName": "Adda247",
+      "url": "https://www.youtube.com/@Adda247"
+    },
+    {
+      "title": "SBI & Other Banking Exams Prep",
+      "channelName": "Oliveboard",
+      "url": "https://www.youtube.com/@Oliveboard"
+    },
+    {
+      "title": "Free Banking Exam Preparation",
+      "channelName": "Bankers Way by Unacademy",
+      "url": "https://www.youtube.com/@BankersWay"
+    }
+  ]
+}

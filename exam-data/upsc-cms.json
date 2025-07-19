@@ -1,0 +1,135 @@
+{
+  "name": "UPSC CMS (Combined Medical Services)",
+  "shortName": "upsc-cms",
+  "description": "A national-level recruitment examination conducted annually by the Union Public Service Commission (UPSC) for the selection of medical officers in various central government organizations and services like the Indian Ordnance Factories, Indian Railways, and municipal corporations of Delhi.",
+  "conductingBody": "Union Public Service Commission (UPSC)",
+  "officialWebsite": "https://upsc.gov.in",
+  "eligibility": {
+    "ageLimit": "A candidate must not have attained the age of 32 years. Age relaxation is applicable for SC/ST/OBC and certain other categories of candidates as per government rules.",
+    "educationalQualification": "The candidate should have passed the written and practical parts of the final M.B.B.S. Examination. Candidates who are appearing or have yet to appear at the final M.B.B.S. Examination may also apply.",
+    "nationality": "A Citizen of India, or a subject of Nepal/Bhutan, or a Tibetan refugee who came to India before 1st January 1962 with the intention of permanently settling in India.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "April 10, 2024",
+    "applicationStartDate": "April 10, 2024",
+    "applicationEndDate": "April 30, 2024",
+    "examDate": "July 14, 2024",
+    "resultDate": "The written exam result is typically declared in August/September, followed by the final result after the interviews."
+  },
+  "examPattern": {
+    "mode": "Online (Computer-Based Test)",
+    "stages": [
+      {
+        "name": "Part-I: Computer Based Examination",
+        "description": "Consists of two objective papers, each of 2 hours duration and carrying a maximum of 250 marks. This is the main written test."
+      },
+      {
+        "name": "Part-II: Personality Test (Interview)",
+        "description": "Candidates who qualify in the written examination are called for a Personality Test/Interview, which carries 100 marks. The interview assesses general knowledge, critical thinking, and intellectual qualities."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "Paper-I (General Medicine & Paediatrics) and Paper-II (Surgery, Gynaecology & Obstetrics, Preventive & Social Medicine) each have 120 questions for 250 marks. There is a penalty (one-third of the marks assigned to that question) for wrong answers."
+  },
+  "syllabus": [
+    {
+      "name": "Paper-I: General Medicine & Paediatrics",
+      "topics": [
+        "Cardiology",
+        "Neurology",
+        "Dermatology",
+        "Psychiatry",
+        "General Medicine",
+        "Common childhood emergencies",
+        "Normal growth and development",
+        "Vaccination",
+        "Respiratory system",
+        "Gastro-intestinal system"
+      ]
+    },
+    {
+      "name": "Paper-II Part A: Surgery",
+      "topics": [
+        "General Surgery (Wounds, Infections, Tumors)",
+        "Urological Surgery",
+        "Neuro Surgery",
+        "Otorhinolaryngology E.N.T.",
+        "Thoracic surgery",
+        "Orthopedic surgery",
+        "Ophthalmology",
+        "Anesthesiology",
+        "Traumatology"
+      ]
+    },
+    {
+      "name": "Paper-II Part B: Gynaecology & Obstetrics",
+      "topics": [
+        "Obstetrics (Ante-natal, Intra-natal and Post-natal care)",
+        "Gynaecology (Applied anatomy, physiology, common infections, and neoplasms)",
+        "Family Planning (Contraception, medical termination of pregnancy)"
+      ]
+    },
+    {
+      "name": "Paper-II Part C: Preventive & Social Medicine",
+      "topics": [
+        "Social and community medicine",
+        "Concept of health, disease and preventive medicine",
+        "Health administration and planning",
+        "General Epidemiology",
+        "Demography and Health Statistics",
+        "Nutrition and Health",
+        "National Health Programs"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "UPSC CMS 2024 Admit Card expected to be released by the last week of June 2024 for the exam on July 14.",
+    "date": "2024-06-20",
+    "link": "https://upsc.gov.in/examinations/active-examinations"
+  },
+  "books": [
+    {
+      "title": "Harrison's Principles of Internal Medicine",
+      "author": "J. Larry Jameson et al.",
+      "link": ""
+    },
+    {
+      "title": "Bailey & Love's Short Practice of Surgery",
+      "author": "Norman Williams, P. Ronan O'Connell, Andrew McCaskie",
+      "link": ""
+    },
+    {
+      "title": "DC Dutta's Textbook of Obstetrics",
+      "author": "Hiralal Konar",
+      "link": ""
+    },
+    {
+      "title": "Park's Textbook of Preventive and Social Medicine",
+      "author": "K. Park",
+      "link": ""
+    },
+    {
+      "title": "Across - A Complete Review of Short Subjects",
+      "author": "Various (Medical review book)",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "UPSC CMS Exam Preparation",
+      "channelName": "DocTutorials",
+      "url": "https://www.youtube.com/@DocTutorials"
+    },
+    {
+      "title": "PrepLadder",
+      "channelName": "PrepLadder",
+      "url": "https://www.youtube.com/@PrepLadder"
+    },
+    {
+      "title": "Marrow",
+      "channelName": "Marrow",
+      "url": "https://www.youtube.com/@MarrowMed"
+    }
+  ]
+}

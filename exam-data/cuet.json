@@ -1,0 +1,97 @@
+{
+  "name": "CUET (Common University Entrance Test)",
+  "shortName": "cuet",
+  "description": "A national-level entrance examination for admission to various undergraduate, integrated, postgraduate, diploma, and certification courses in Central, State, Deemed, and Private universities across India.",
+  "conductingBody": "National Testing Agency (NTA)",
+  "officialWebsite": "https://exams.nta.ac.in/CUET-UG/",
+  "eligibility": {
+    "ageLimit": "No age limit for candidates. However, candidates will need to fulfill the age criteria (if any) of the individual university/institution they are applying to.",
+    "educationalQualification": "Candidates must have passed the Class 12 / equivalent examination or be appearing in the current academic year. Subject and percentage requirements vary according to the specific course and university.",
+    "nationality": "Citizen of India. OCI/PIO/Foreign nationals are also eligible, subject to the rules of the applied university.",
+    "numberOfAttempts": null
+  },
+  "timeline": {
+    "notificationDate": "February 27, 2024 (for CUET-UG 2024)",
+    "applicationStartDate": "February 27, 2024 (for CUET-UG 2024)",
+    "applicationEndDate": "April 5, 2024 (for CUET-UG 2024)",
+    "examDate": "May 15, 2024 to May 29, 2024 (for CUET-UG 2024)",
+    "resultDate": "Tentatively June 30, 2024 (for CUET-UG 2024)"
+  },
+  "examPattern": {
+    "mode": "Hybrid Mode (Offline Pen-and-Paper & Online Computer-Based Test)",
+    "stages": [
+      {
+        "name": "Stage 1: CUET Written Exam",
+        "description": "A single-stage entrance exam divided into three sections: Section 1 (Languages), Section 2 (Domain-specific subjects), and Section 3 (General Test). Candidates choose subjects based on the requirements of their desired course and university."
+      },
+      {
+        "name": "Stage 2: University Counselling",
+        "description": "After the results are declared, participating universities release their own merit lists and conduct counselling/admission processes based on CUET scores and their specific eligibility criteria."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "+5 marks for each correct answer. -1 mark is deducted for each incorrect answer. 0 marks for unattempted questions."
+  },
+  "syllabus": [
+    {
+      "name": "Section I (IA & IB): Languages",
+      "topics": [
+        "Reading Comprehension (based on different types of passages–Factual, Literary and Narrative)",
+        "Literary Aptitude and Vocabulary",
+        "Verbal Ability",
+        "Synonyms and Antonyms",
+        "Rearranging the parts"
+      ]
+    },
+    {
+      "name": "Section II: Domain-Specific Subjects",
+      "topics": [
+        "The syllabus is based on the Class 12 NCERT curriculum for the respective subject chosen by the candidate. Candidates can choose from a list of 27 domain-specific subjects."
+      ]
+    },
+    {
+      "name": "Section III: General Test",
+      "topics": [
+        "General Knowledge & Current Affairs",
+        "General Mental Ability",
+        "Numerical Ability",
+        "Quantitative Reasoning (application of basic mathematical concepts)",
+        "Logical and Analytical Reasoning"
+      ]
+    }
+  ],
+  "latestUpdate": {
+    "title": "CUET UG 2024 Result to be Declared by June 30",
+    "date": "2024-05-30",
+    "link": "https://exams.nta.ac.in/CUET-UG/"
+  },
+  "books": [
+    {
+      "title": "NCERT Textbooks for Class 12 (for Domain Subjects)",
+      "author": "NCERT",
+      "link": ""
+    },
+    {
+      "title": "NTA CUET (UG) Guide for Section III General Test",
+      "author": "Arihant Experts",
+      "link": ""
+    },
+    {
+      "title": "Oswaal NTA CUET (UG) Question Banks (Subject-wise)",
+      "author": "Oswaal Books",
+      "link": ""
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "CUET UG & PG Preparation",
+      "channelName": "CUET Adda247",
+      "url": "https://www.youtube.com/@CUETADDA247"
+    },
+    {
+      "title": "CUET 2024-25 Preparation",
+      "channelName": "Unacademy CUET",
+      "url": "https://www.youtube.com/@UnacademyCUET"
+    }
+  ]
+}

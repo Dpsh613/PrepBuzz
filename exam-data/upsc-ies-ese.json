@@ -1,0 +1,93 @@
+{
+  "name": "UPSC IES/ESE (Engineering Services Exam)",
+  "shortName": "upsc-ies-ese",
+  "description": "The Engineering Services Examination (ESE), also commonly known as IES, is a national-level competitive examination conducted by the UPSC for recruitment to various engineering posts in the Government of India. The exam is conducted for four engineering disciplines: Civil, Mechanical, Electrical, and Electronics & Telecommunication.",
+  "conductingBody": "Union Public Service Commission (UPSC)",
+  "officialWebsite": "https://upsc.gov.in/",
+  "eligibility": {
+    "ageLimit": "21 to 30 years as on 1st January of the examination year. Age relaxation is applicable for reserved categories (SC/ST, OBC, etc.) as per government norms.",
+    "educationalQualification": "A degree in Engineering from a recognized university or equivalent. Candidates must have a degree in one of the four disciplines: Civil Engineering, Mechanical Engineering, Electrical Engineering, or Electronics & Telecommunication Engineering.",
+    "nationality": "A Citizen of India, or a subject of Nepal/Bhutan, or a Tibetan refugee who came to India before January 1, 1962.",
+    "numberOfAttempts": "Unlimited, subject to the age limit criteria."
+  },
+  "timeline": {
+    "notificationDate": "September 6, 2023 (for ESE 2024 cycle)",
+    "applicationStartDate": "September 6, 2023",
+    "applicationEndDate": "September 26, 2023",
+    "examDate": "Preliminary Exam: February 18, 2024; Main Exam: June 23, 2024",
+    "resultDate": "Results for each stage are declared a few months after the exam. Final result is typically declared in November/December."
+  },
+  "examPattern": {
+    "mode": "Offline (OMR-based for Prelims, Pen-and-Paper for Mains), and in-person Interview.",
+    "stages": [
+      {
+        "name": "Stage 1: Preliminary Examination (Objective)",
+        "description": "Consists of two objective papers. Paper-I (General Studies and Engineering Aptitude - 200 marks) is common for all candidates. Paper-II (500 marks) is on the specific Engineering Discipline. Total: 500 Marks."
+      },
+      {
+        "name": "Stage 2: Main Examination (Conventional/Descriptive)",
+        "description": "Consists of two conventional (descriptive) papers in the specific Engineering Discipline. Each paper is for 300 marks. Total: 600 Marks. Only those who qualify Prelims can appear for Mains."
+      },
+      {
+        "name": "Stage 3: Personality Test (Interview)",
+        "description": "An interview and personality test for candidates who qualify the Main Examination. It carries a maximum of 200 marks."
+      }
+    ],
+    "negativeMarking": true,
+    "markingScheme": "For the objective papers in Stage-I (Prelims), there is a penalty of 1/3rd of the marks assigned for each wrong answer. There is no negative marking for the conventional papers in Stage-II (Mains). The final merit list is prepared based on the marks obtained in Stage-I + Stage-II + Stage-III (Total 1300 Marks)."
+  },
+  "syllabus": [
+    {
+      "name": "Preliminary Exam - Paper I (Common)",
+      "topics": "General Studies and Engineering Aptitude: Current affairs, Engineering Aptitude (Logical reasoning & Analytical ability), Engineering Mathematics, General Principles of Design, Standards and Quality, Energy and Environment, Project Management, Basics of Material Science, ICT, Ethics and Values in the Engineering profession."
+    },
+    {
+      "name": "Preliminary & Main Exam - Paper II (Discipline Specific)",
+      "topics": "In-depth syllabus based on the candidate's chosen engineering discipline: Civil Engineering, Mechanical Engineering, Electrical Engineering, or Electronics & Telecommunication Engineering."
+    }
+  ],
+  "latestUpdate": {
+    "title": "UPSC ESE 2024 Main Exam was conducted.",
+    "date": "2024-06-23",
+    "link": "https://upsc.gov.in/examinations/exam-calendar"
+  },
+  "books": [
+    {
+      "title": "ESE General Studies and Engineering Aptitude",
+      "author": "Made Easy Publications"
+    },
+    {
+      "title": "ESE Conventional Practice Books (by discipline)",
+      "author": "Made Easy Publications"
+    },
+    {
+      "title": "ESE Objective Solved Papers (by discipline)",
+      "author": "ACE Engineering Academy"
+    },
+    {
+      "title": "Basics of Material Science and Engineering",
+      "author": "William D. Callister"
+    },
+    {
+      "title": "Project Management: A Managerial Approach",
+      "author": "Meredith, Shafer, Mantel Jr., and Sutton"
+    }
+  ],
+  "youtubeVideos": [
+    {
+      "title": "MADE EASY",
+      "channelName": "MADE EASY",
+      "url": "https://www.youtube.com/@MADE EASY"
+    },
+    {
+      "title": "ACE Engineering Academy",
+      "channelName": "ACE Engineering Academy",
+      "url": "https://www.youtube.com/@ACEAcademy"
+    },
+    {
+      "title": "Unacademy GATE & ESE - EE, EC, IN",
+      "channelName": "Unacademy GATE & ESE - EE, EC, IN",
+      "url": "https://www.youtube.com/@UnacademyGate-ee-ec-in"
+    }
+  ]
+}
